@@ -16,12 +16,12 @@ getvals <- function(dir, pattern, filter, celltype){
     table
 }
 
-plotscatter = function(celltype){
+genpredictions = function(celltype){
   a = getvals(paste0("fastUTR_",celltype,"_predictions"), ".*txt", "", celltype)
   colnames(a)=c("seqid","Prediction")
 
   writefile(a,paste0("fastUTR_MPRA_predictions_",celltype,".txt"))
 }
 
-plotscatter("ENCFF090JTW")
-plotscatter("ENCFF770UJN")
+genpredictions("ENCFF090JTW")
+genpredictions("ENCFF770UJN")

@@ -22,12 +22,12 @@ getvals <- function(dir, pattern, filter, refValt=F){
     table
 }
 
-# a = getvals("fastUTR_predictions", ".*txt", "")
-# nrow(a)
-# colnames(a)=c("seq","Prediction")
-# head(a)
-#
-# writefile(a,"fastUTR_MPRA_predictions.txt")
+a = getvals("fastUTR_predictions", ".*txt", "")
+nrow(a)
+colnames(a)=c("seq","Prediction")
+head(a)
+
+writefile(a,"fastUTR_MPRA_predictions.txt")
 
 a=read.delim("fastUTR_MPRA_predictions.txt")
 b=read.delim("fastUTR_mpra.txt",F)
@@ -41,7 +41,7 @@ data$mean=apply(data[,2:3],1,function(x){ mean(x, na.rm=T) })
 round(cor(data[,2:5], use='pairwise.complete.obs'),2)
 round(cor(data[,2:5], method='spearman', use='pairwise.complete.obs'),2)
 
-pdf("fastUTR_scatter.pdf")
+pdf("fastUTR_scatter.pdf")  #FigS7abc
 heatscatter(data$Prediction[!is.na(data[,2])], data[!is.na(data[,2]),2], xlab="Predicted 3' UTR effect", ylab="Observed 3' UTR effect, Jurkat", bty='n', las=1, xlim=c(-2,0.5), ylim=c(0,1))
 heatscatter(data$Prediction[!is.na(data[,3])], data[!is.na(data[,3]),3], xlab="Predicted 3' UTR effect", ylab="Observed 3' UTR effect, Beas2B", bty='n', las=1, xlim=c(-2,0.5), ylim=c(0,0.8))
 heatscatter(data[complete.cases(data),2], data[complete.cases(data),3], xlab="Observed 3' UTR effect, Jurkat", ylab="Observed 3' UTR effect, Beas2B", bty='n', las=1, xlim=c(0,0.8), ylim=c(0,0.8))
@@ -76,24 +76,21 @@ plotscatter = function(celltype){
   say(cor(data$Prediction, data$mpra_val))
   say(cor(data$Prediction, data$mpra_val, method='spearman'))
 
-  # say(min(data$Prediction), max(data$Prediction))
-  # say(min(data$mpra_val), max(data$mpra_val))
-
   pdf(paste0("fastUTR_scatter_",celltype,"Variants.pdf"))
   heatscatter(data$Prediction, data$mpra_val, xlab="Predicted 3' UTR effect", ylab=paste0("Observed 3' UTR variant effect, ", celltype), bty='n', las=1, xlim=c(-0.5,1.5), ylim=c(-0.5,0.5))
   dev.off()
 
   data[,c("seq","mpra_val")]
 }
-#
-# jurkat = plotscatter("Jurkat")
-# beas2b = plotscatter("Beas2B")
-#
-# data = merge(jurkat, beas2b, by=1)
-#
-# cor(data[,2], data[,3])
-# cor(data[,2], data[,3], method='spearman')
-#
-# pdf("fastUTR_scatter_JurkatVsBeas2b_Variants.pdf")
-# heatscatter(data[,2], data[,3], xlab="Jurkat variant effect", ylab="Beas2B variant effect", bty='n', las=1, xlim=c(-0.5,0.5), ylim=c(-0.5,0.5))
-# dev.off()
+
+jurkat = plotscatter("Jurkat") #FigS7d
+beas2b = plotscatter("Beas2B") #Fig6e & S7e (identical)
+
+data = merge(jurkat, beas2b, by=1)
+
+cor(data[,2], data[,3])
+cor(data[,2], data[,3], method='spearman')
+
+pdf("fastUTR_scatter_JurkatVsBeas2b_Variants.pdf") #FigS7f
+heatscatter(data[,2], data[,3], xlab="Jurkat variant effect", ylab="Beas2B variant effect", bty='n', las=1, xlim=c(-0.5,0.5), ylim=c(-0.5,0.5))
+dev.off()

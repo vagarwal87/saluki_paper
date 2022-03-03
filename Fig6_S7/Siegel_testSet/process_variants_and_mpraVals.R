@@ -15,13 +15,5 @@ prepare = function(x){
 
 a = prepare("Jurkat")
 b = prepare("Beas2B")
-# writefile(a, "fastUTR_mpra_Jurkat.txt", col.names=F)
-# writefile(b, "fastUTR_mpra_Beas2B.txt", col.names=F)
-
-c = merge(a,b,by=1,all=T)
-nrow(c)
-c = c[complete.cases(c),]
-nrow(c)
-cor(c[,2],c[,3],use='complete.obs')
-cor(c[,2],c[,3],method='spearman',use='complete.obs')
-# writefile(c, "fastUTR_mpra.txt", col.names=F)
+writefile(a, gzfile("fastUTR_mpra_Jurkat.txt.gz"), col.names=F)
+writefile(b, gzfile("fastUTR_mpra_Beas2B.txt.gz"), col.names=F)
