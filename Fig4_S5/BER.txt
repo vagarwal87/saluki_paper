@@ -1,0 +1,70 @@
+  [1] "GENEID"                     "HALFLIFE"                   "UTR5LEN"                    "CDSLEN"                     "INTRONLEN"                  "UTR3LEN"                    "UTR5GC"                    
+  [8] "CDSGC"                      "UTR3GC"                     "ORFEXONDENSITY"             "RIP.eIF4E.Rissland"         "RIP.eIF4G.Rissland"         "RIP.PABP.Rissland"          "RIP.YTHDF2.polyA.He"       
+ [15] "RIP.YTHDF2.RiboMinusRIP.He" "TE.He"                      "RIP.YTHDF1_polyA_He"        "RIP.YTHDF1_RiboMinus_He"    "RIP.YTHDF3_polyA_He"        "RIP.YTHDF3_RiboMinus_He"    "RIP.ADAR"                  
+ [22] "RIP.CTCF"                   "RIP.DNMT1"                  "RIP.HNRNPH"                 "RIP.HNRNPU"                 "RIP.HDAC1"                  "RIP.CBX"                    "RIP.IMP1"                  
+ [29] "RIP.CHD4"                   "RIP.EZH2"                   "RIP.CBP"                    "RIP.CHD1"                   "RIP.HUR"                    "RIP.CHD7"                   "RIP.SUZ12"                 
+ [36] "RIP.LSD1"                   "RIP.PCBX"                   "RIP.STAG2"                  "RIP.PHF8"                   "RIP.PCAF"                   "RIP.WDR5"                   "RIP.RBBP5"                 
+ [43] "RIP.NUP98"                  "RIP.PABP"                   "ENCORI.ACIN1"               "ENCORI.ADAR"                "ENCORI.AIFM1"               "ENCORI.ALKBH5"              "ENCORI.ALYREF"             
+ [50] "ENCORI.AUH"                 "ENCORI.BCCIP"               "ENCORI.BUD13"               "ENCORI.CAPRIN1"             "ENCORI.CBX7"                "ENCORI.CELF2"               "ENCORI.CNBP"               
+ [57] "ENCORI.CPSF6"               "ENCORI.CSTF2T"              "ENCORI.DDX3X"               "ENCORI.DDX42"               "ENCORI.DDX54"               "ENCORI.DGCR8"               "ENCORI.DHX9"               
+ [64] "ENCORI.DICER1"              "ENCORI.DIS3L2"              "ENCORI.DKC1"                "ENCORI.EIF3A"               "ENCORI.EIF3B"               "ENCORI.EIF3D"               "ENCORI.EIF3G"              
+ [71] "ENCORI.EIF4A1"              "ENCORI.EIF4A3"              "ENCORI.EIF4G1"              "ENCORI.EIF4G2"              "ENCORI.ELAVL1"              "ENCORI.ELAVL3"              "ENCORI.EWSR1"              
+ [78] "ENCORI.FAM120A"             "ENCORI.FBL"                 "ENCORI.FKBP4"               "ENCORI.FMR1"                "ENCORI.FTO"                 "ENCORI.FUS"                 "ENCORI.FXR1"               
+ [85] "ENCORI.FXR2"                "ENCORI.GNL3"                "ENCORI.GTF2F1"              "ENCORI.HNRNPA1"             "ENCORI.HNRNPA2B1"           "ENCORI.HNRNPC"              "ENCORI.HNRNPD"             
+ [92] "ENCORI.HNRNPK"              "ENCORI.HNRNPL"              "ENCORI.HNRNPM"              "ENCORI.HNRNPU"              "ENCORI.HNRNPUL1"            "ENCORI.IGF2BP1"             "ENCORI.IGF2BP2"            
+ [99] "ENCORI.IGF2BP3"             "ENCORI.ILF3"                "ENCORI.KHDRBS1"             "ENCORI.KHDRBS2"             "ENCORI.KHDRBS3"             "ENCORI.KHSRP"               "ENCORI.LARP4B"             
+[106] "ENCORI.LARP7"               "ENCORI.LIN28"               "ENCORI.LIN28A"              "ENCORI.LIN28B"              "ENCORI.LSM11"               "ENCORI.MBNL1"               "ENCORI.MBNL2"              
+[113] "ENCORI.METTL14"             "ENCORI.METTL3"              "ENCORI.MOV10"               "ENCORI.MSI1"                "ENCORI.MSI2"                "ENCORI.NCBP3"               "ENCORI.NONO"               
+[120] "ENCORI.NOP56"               "ENCORI.NOP58"               "ENCORI.NPM1"                "ENCORI.NUMA1"               "ENCORI.PAPD5"               "ENCORI.PCBP2"               "ENCORI.PRPF8"              
+[127] "ENCORI.PTBP1"               "ENCORI.PUM1"                "ENCORI.PUM2"                "ENCORI.QKI"                 "ENCORI.RANGAP1"             "ENCORI.RBFOX2"              "ENCORI.RBM10"              
+[134] "ENCORI.RBM22"               "ENCORI.RBM27"               "ENCORI.RBM39"               "ENCORI.RBM47"               "ENCORI.RBM5"                "ENCORI.RBM6"                "ENCORI.RC3H1"              
+[141] "ENCORI.RNF219"              "ENCORI.RTCB"                "ENCORI.SAFB2"               "ENCORI.SBDS"                "ENCORI.SF3A3"               "ENCORI.SF3B4"               "ENCORI.SLBP"               
+[148] "ENCORI.SLTM"                "ENCORI.SMNDC1"              "ENCORI.SND1"                "ENCORI.SRSF1"               "ENCORI.SRSF10"              "ENCORI.SRSF3"               "ENCORI.SRSF7"              
+[155] "ENCORI.SRSF9"               "ENCORI.TAF15"               "ENCORI.TARBP2"              "ENCORI.TARDBP"              "ENCORI.TIA1"                "ENCORI.TIAL1"               "ENCORI.TNRC6A"             
+[162] "ENCORI.TRA2A"               "ENCORI.TROVE2"              "ENCORI.U2AF1"               "ENCORI.U2AF2"               "ENCORI.UPF1"                "ENCORI.VIM"                 "ENCORI.WTAP"               
+[169] "ENCORI.XRN2"                "ENCORI.YTHDC1"              "ENCORI.YTHDC2"              "ENCORI.YTHDF1"              "ENCORI.YTHDF2"              "ENCORI.YWHAG"               "ENCORI.ZC3H7B"             
+[176] "ENCORI.ZFP36"               "ENCORI.ZNF184"             
+[1] "With Ensembl IDs + Features:  12981"
+[1] "Dimensions:  12981" "Dimensions:  177"  
+            GENEID   HALFLIFE  UTR5LEN   CDSLEN INTRONLEN
+1  ENSG00000000003  8.6609546 2.045714 2.862191  3.774013
+2  ENSG00000000457 -6.9291729 2.342620 3.345001  4.577654
+3  ENSG00000000460  0.4409086 2.843295 3.404338  4.735160
+4  ENSG00000000938 -0.9436801 2.456518 3.197584  4.311798
+5  ENSG00000000971  7.7204267 2.378580 3.564796  4.961545
+6  ENSG00000001036  8.3098107 1.741152 3.144294  4.162418
+7  ENSG00000001084 -3.7929552 2.684037 3.277632  4.643414
+8  ENSG00000001167 -6.4981408 2.299071 3.013722  4.366145
+9  ENSG00000001460 -3.5762115 2.403292 2.997430  4.742789
+10 ENSG00000001461  0.2905773 2.563600 3.081743  4.714490
+null device 
+          1 
+     lambda.min
+[1,]  0.5301503
+     lambda.min
+[1,]  0.5289107
+RIP.YTHDF2.polyA.He      ORFEXONDENSITY            RIP.PABP         ENCORI.SND1            RIP.WDR5            RIP.PHF8       ENCORI.ELAVL1       ENCORI.LIN28A        ENCORI.RC3H1         ENCORI.PUM2        ENCORI.ZFP36 
+      -3.442709e-01        2.805681e-01        1.060238e-01        8.935451e-02       -8.729811e-02       -8.369626e-02       -6.801767e-02        6.635706e-02       -6.263276e-02       -4.350045e-02       -4.273632e-02 
+       ENCORI.LIN28       ENCORI.EIF4A1 RIP.YTHDF3_polyA_He       ENCORI.EIF4G1            RIP.PCAF          ENCORI.FUS        ENCORI.LARP7  RIP.eIF4G.Rissland       ENCORI.YTHDF1        ENCORI.KHSRP       ENCORI.LARP4B 
+       4.093110e-02        3.392249e-02       -3.190797e-02        3.094612e-02       -2.611868e-02        2.551998e-02        2.499479e-02        2.042365e-02       -1.915952e-02       -1.853663e-02        1.694791e-02 
+        ENCORI.SBDS              UTR3GC       ENCORI.RNF219   RIP.PABP.Rissland             UTR3LEN      ENCORI.METTL14         ENCORI.RBM6        ENCORI.MBNL1         (Intercept) 
+       1.640060e-02        1.506431e-02        1.313110e-02        1.067572e-02       -7.002342e-03        3.305267e-03        2.980554e-03        2.131475e-03        2.217219e-16 
+[1] 31
+null device 
+          1 
+[1] "0.720871218818253"
+[1] "0.732486439000104"
+[1] "0.738975841078364"
+[1] "0.711013995084889"
+[1] "0.72232674355704"
+[1] "0.732643077207661"
+[1] "0.721920039053034"
+[1] "0.492616933758073"
+[1] "0.723283005796425"
+[1] "0.708879534739365"
+          [,1]
+[1,] 0.5274668
+          [,1]
+[1,] 0.4705888
+null device 
+          1 

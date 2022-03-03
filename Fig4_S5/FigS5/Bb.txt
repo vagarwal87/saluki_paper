@@ -1,0 +1,213 @@
+  [1] "GENEID"                                     "HALFLIFE"                                   "BASIC.UTR5LEN"                              "BASIC.CDSLEN"                               "BASIC.INTRONLEN"                           
+  [6] "BASIC.UTR3LEN"                              "BASIC.UTR5GC"                               "BASIC.CDSGC"                                "BASIC.UTR3GC"                               "BASIC.ORFEXONDENSITY"                      
+ [11] "BIOCHEMICAL.M6ACLIP.YTHDF2_HRSP12_KimPeaks" "BIOCHEMICAL.M6ACLIP.m6aJaffrey"             "BIOCHEMICAL.M6ACLIP.m6Am_Jaffrey"           "BIOCHEMICAL.M6ACLIP.m6A_Schwarz"            "BIOCHEMICAL.M6ACLIP.m6A_HEK_Shu"           
+ [16] "BIOCHEMICAL.M6ACLIP.a6A_HeLa_Shu"           "BIOCHEMICAL.M6ACLIP.a6A_HEK293_Shu"         "BIOCHEMICAL.M6ACLIP.He_WTAP"                "BIOCHEMICAL.M6ACLIP.He_METTL14"             "BIOCHEMICAL.M6ACLIP.He_METTL3"             
+ [21] "BIOCHEMICAL.M6ACLIP.m6a_H1T48_Chang"        "BIOCHEMICAL.M6ACLIP.m6a_H1T0_Chang"         "BIOCHEMICAL.M6ACLIP.m6a_Chang"              "BIOCHEMICAL.ENCORI.ACIN1"                   "BIOCHEMICAL.ENCORI.ADAR"                   
+ [26] "BIOCHEMICAL.ENCORI.AIFM1"                   "BIOCHEMICAL.ENCORI.ALKBH5"                  "BIOCHEMICAL.ENCORI.ALYREF"                  "BIOCHEMICAL.ENCORI.AUH"                     "BIOCHEMICAL.ENCORI.BCCIP"                  
+ [31] "BIOCHEMICAL.ENCORI.BUD13"                   "BIOCHEMICAL.ENCORI.CAPRIN1"                 "BIOCHEMICAL.ENCORI.CBX7"                    "BIOCHEMICAL.ENCORI.CELF2"                   "BIOCHEMICAL.ENCORI.CNBP"                   
+ [36] "BIOCHEMICAL.ENCORI.CPSF6"                   "BIOCHEMICAL.ENCORI.CSTF2T"                  "BIOCHEMICAL.ENCORI.DDX3X"                   "BIOCHEMICAL.ENCORI.DDX42"                   "BIOCHEMICAL.ENCORI.DDX54"                  
+ [41] "BIOCHEMICAL.ENCORI.DGCR8"                   "BIOCHEMICAL.ENCORI.DHX9"                    "BIOCHEMICAL.ENCORI.DICER1"                  "BIOCHEMICAL.ENCORI.DIS3L2"                  "BIOCHEMICAL.ENCORI.DKC1"                   
+ [46] "BIOCHEMICAL.ENCORI.EIF3A"                   "BIOCHEMICAL.ENCORI.EIF3B"                   "BIOCHEMICAL.ENCORI.EIF3D"                   "BIOCHEMICAL.ENCORI.EIF3G"                   "BIOCHEMICAL.ENCORI.EIF4A1"                 
+ [51] "BIOCHEMICAL.ENCORI.EIF4A3"                  "BIOCHEMICAL.ENCORI.EIF4G1"                  "BIOCHEMICAL.ENCORI.EIF4G2"                  "BIOCHEMICAL.ENCORI.ELAVL1"                  "BIOCHEMICAL.ENCORI.ELAVL3"                 
+ [56] "BIOCHEMICAL.ENCORI.EWSR1"                   "BIOCHEMICAL.ENCORI.FAM120A"                 "BIOCHEMICAL.ENCORI.FBL"                     "BIOCHEMICAL.ENCORI.FKBP4"                   "BIOCHEMICAL.ENCORI.FMR1"                   
+ [61] "BIOCHEMICAL.ENCORI.FTO"                     "BIOCHEMICAL.ENCORI.FUS"                     "BIOCHEMICAL.ENCORI.FXR1"                    "BIOCHEMICAL.ENCORI.FXR2"                    "BIOCHEMICAL.ENCORI.GNL3"                   
+ [66] "BIOCHEMICAL.ENCORI.GTF2F1"                  "BIOCHEMICAL.ENCORI.HNRNPA1"                 "BIOCHEMICAL.ENCORI.HNRNPA2B1"               "BIOCHEMICAL.ENCORI.HNRNPC"                  "BIOCHEMICAL.ENCORI.HNRNPD"                 
+ [71] "BIOCHEMICAL.ENCORI.HNRNPK"                  "BIOCHEMICAL.ENCORI.HNRNPL"                  "BIOCHEMICAL.ENCORI.HNRNPM"                  "BIOCHEMICAL.ENCORI.HNRNPU"                  "BIOCHEMICAL.ENCORI.HNRNPUL1"               
+ [76] "BIOCHEMICAL.ENCORI.IGF2BP1"                 "BIOCHEMICAL.ENCORI.IGF2BP2"                 "BIOCHEMICAL.ENCORI.IGF2BP3"                 "BIOCHEMICAL.ENCORI.ILF3"                    "BIOCHEMICAL.ENCORI.KHDRBS1"                
+ [81] "BIOCHEMICAL.ENCORI.KHDRBS2"                 "BIOCHEMICAL.ENCORI.KHDRBS3"                 "BIOCHEMICAL.ENCORI.KHSRP"                   "BIOCHEMICAL.ENCORI.LARP4B"                  "BIOCHEMICAL.ENCORI.LARP7"                  
+ [86] "BIOCHEMICAL.ENCORI.LIN28"                   "BIOCHEMICAL.ENCORI.LIN28A"                  "BIOCHEMICAL.ENCORI.LIN28B"                  "BIOCHEMICAL.ENCORI.LSM11"                   "BIOCHEMICAL.ENCORI.MBNL1"                  
+ [91] "BIOCHEMICAL.ENCORI.MBNL2"                   "BIOCHEMICAL.ENCORI.METTL14"                 "BIOCHEMICAL.ENCORI.METTL3"                  "BIOCHEMICAL.ENCORI.MOV10"                   "BIOCHEMICAL.ENCORI.MSI1"                   
+ [96] "BIOCHEMICAL.ENCORI.MSI2"                    "BIOCHEMICAL.ENCORI.NCBP3"                   "BIOCHEMICAL.ENCORI.NONO"                    "BIOCHEMICAL.ENCORI.NOP56"                   "BIOCHEMICAL.ENCORI.NOP58"                  
+[101] "BIOCHEMICAL.ENCORI.NPM1"                    "BIOCHEMICAL.ENCORI.NUMA1"                   "BIOCHEMICAL.ENCORI.PAPD5"                   "BIOCHEMICAL.ENCORI.PCBP2"                   "BIOCHEMICAL.ENCORI.PRPF8"                  
+[106] "BIOCHEMICAL.ENCORI.PTBP1"                   "BIOCHEMICAL.ENCORI.PUM1"                    "BIOCHEMICAL.ENCORI.PUM2"                    "BIOCHEMICAL.ENCORI.QKI"                     "BIOCHEMICAL.ENCORI.RANGAP1"                
+[111] "BIOCHEMICAL.ENCORI.RBFOX2"                  "BIOCHEMICAL.ENCORI.RBM10"                   "BIOCHEMICAL.ENCORI.RBM22"                   "BIOCHEMICAL.ENCORI.RBM27"                   "BIOCHEMICAL.ENCORI.RBM39"                  
+[116] "BIOCHEMICAL.ENCORI.RBM47"                   "BIOCHEMICAL.ENCORI.RBM5"                    "BIOCHEMICAL.ENCORI.RBM6"                    "BIOCHEMICAL.ENCORI.RC3H1"                   "BIOCHEMICAL.ENCORI.RNF219"                 
+[121] "BIOCHEMICAL.ENCORI.RTCB"                    "BIOCHEMICAL.ENCORI.SAFB2"                   "BIOCHEMICAL.ENCORI.SBDS"                    "BIOCHEMICAL.ENCORI.SF3A3"                   "BIOCHEMICAL.ENCORI.SF3B4"                  
+[126] "BIOCHEMICAL.ENCORI.SLBP"                    "BIOCHEMICAL.ENCORI.SLTM"                    "BIOCHEMICAL.ENCORI.SMNDC1"                  "BIOCHEMICAL.ENCORI.SND1"                    "BIOCHEMICAL.ENCORI.SRSF1"                  
+[131] "BIOCHEMICAL.ENCORI.SRSF10"                  "BIOCHEMICAL.ENCORI.SRSF3"                   "BIOCHEMICAL.ENCORI.SRSF7"                   "BIOCHEMICAL.ENCORI.SRSF9"                   "BIOCHEMICAL.ENCORI.TAF15"                  
+[136] "BIOCHEMICAL.ENCORI.TARBP2"                  "BIOCHEMICAL.ENCORI.TARDBP"                  "BIOCHEMICAL.ENCORI.TIA1"                    "BIOCHEMICAL.ENCORI.TIAL1"                   "BIOCHEMICAL.ENCORI.TNRC6A"                 
+[141] "BIOCHEMICAL.ENCORI.TRA2A"                   "BIOCHEMICAL.ENCORI.TROVE2"                  "BIOCHEMICAL.ENCORI.U2AF1"                   "BIOCHEMICAL.ENCORI.U2AF2"                   "BIOCHEMICAL.ENCORI.UPF1"                   
+[146] "BIOCHEMICAL.ENCORI.VIM"                     "BIOCHEMICAL.ENCORI.WTAP"                    "BIOCHEMICAL.ENCORI.XRN2"                    "BIOCHEMICAL.ENCORI.YTHDC1"                  "BIOCHEMICAL.ENCORI.YTHDC2"                 
+[151] "BIOCHEMICAL.ENCORI.YTHDF1"                  "BIOCHEMICAL.ENCORI.YTHDF2"                  "BIOCHEMICAL.ENCORI.YWHAG"                   "BIOCHEMICAL.ENCORI.ZC3H7B"                  "BIOCHEMICAL.ENCORI.ZFP36"                  
+[156] "BIOCHEMICAL.ENCORI.ZNF184"                  "BIOCHEMICAL.eCLIP.GTF2F1.HepG2"             "BIOCHEMICAL.eCLIP.DDX52.HepG2"              "BIOCHEMICAL.eCLIP.BUD13.HepG2"              "BIOCHEMICAL.eCLIP.DGCR8.K562"              
+[161] "BIOCHEMICAL.eCLIP.CDC40.HepG2"              "BIOCHEMICAL.eCLIP.KHDRBS1.K562"             "BIOCHEMICAL.eCLIP.UTP3.K562"                "BIOCHEMICAL.eCLIP.KHSRP.K562"               "BIOCHEMICAL.eCLIP.AKAP1.K562"              
+[166] "BIOCHEMICAL.eCLIP.NIP7.HepG2"               "BIOCHEMICAL.eCLIP.TARDBP.K562"              "BIOCHEMICAL.eCLIP.HNRNPU.HepG2"             "BIOCHEMICAL.eCLIP.NKRF.HepG2"               "BIOCHEMICAL.eCLIP.HLTF.HepG2"              
+[171] "BIOCHEMICAL.eCLIP.GNL3.K562"                "BIOCHEMICAL.eCLIP.PRPF8.HepG2"              "BIOCHEMICAL.eCLIP.GEMIN5.K562"              "BIOCHEMICAL.eCLIP.SBDS.K562"                "BIOCHEMICAL.eCLIP.RBM15.HepG2"             
+[176] "BIOCHEMICAL.eCLIP.U2AF1.HepG2"              "BIOCHEMICAL.eCLIP.EIF3D.HepG2"              "BIOCHEMICAL.eCLIP.ZRANB2.K562"              "BIOCHEMICAL.eCLIP.LIN28B.K562"              "BIOCHEMICAL.eCLIP.ILF3.HepG2"              
+[181] "BIOCHEMICAL.eCLIP.SF3B4.HepG2"              "BIOCHEMICAL.eCLIP.DDX3X.K562"               "BIOCHEMICAL.eCLIP.PUM1.K562"                "BIOCHEMICAL.eCLIP.PCBP1.HepG2"              "BIOCHEMICAL.eCLIP.ZNF800.K562"             
+[186] "BIOCHEMICAL.eCLIP.FXR2.HepG2"               "BIOCHEMICAL.eCLIP.SDAD1.K562"               "BIOCHEMICAL.eCLIP.SLTM.HepG2"               "BIOCHEMICAL.eCLIP.DHX30.K562"               "BIOCHEMICAL.eCLIP.AARS.K562"               
+[191] "BIOCHEMICAL.eCLIP.BCCIP.HepG2"              "BIOCHEMICAL.eCLIP.NOLC1.HepG2"              "BIOCHEMICAL.eCLIP.SFPQ.HepG2"               "BIOCHEMICAL.eCLIP.CSTF2T.HepG2"             "BIOCHEMICAL.eCLIP.NPM1.K562"               
+[196] "BIOCHEMICAL.eCLIP.FAM120A.K562"             "BIOCHEMICAL.eCLIP.GRWD1.HepG2"              "BIOCHEMICAL.eCLIP.HNRNPC.K562"              "BIOCHEMICAL.eCLIP.YBX3.HepG2"               "BIOCHEMICAL.eCLIP.SUGP2.HepG2"             
+[201] "BIOCHEMICAL.eCLIP.DGCR8.HepG2"              "BIOCHEMICAL.eCLIP.DDX52.K562"               "BIOCHEMICAL.eCLIP.AKAP8L.K562"              "BIOCHEMICAL.eCLIP.RBFOX2.K562"              "BIOCHEMICAL.eCLIP.EIF4G2.K562"             
+[206] "BIOCHEMICAL.eCLIP.FAM120A.HepG2"            "BIOCHEMICAL.eCLIP.SND1.K562"                "BIOCHEMICAL.eCLIP.HNRNPU.adrenal gland"     "BIOCHEMICAL.eCLIP.PRPF4.HepG2"              "BIOCHEMICAL.eCLIP.SAFB.HepG2"              
+[211] "BIOCHEMICAL.eCLIP.NSUN2.K562"               "BIOCHEMICAL.eCLIP.SUPV3L1.K562"             "BIOCHEMICAL.eCLIP.HNRNPU.K562"              "BIOCHEMICAL.eCLIP.WDR43.K562"               "BIOCHEMICAL.eCLIP.MATR3.K562"              
+[216] "BIOCHEMICAL.eCLIP.PUS1.K562"                "BIOCHEMICAL.eCLIP.ZC3H11A.K562"             "BIOCHEMICAL.eCLIP.BUD13.K562"               "BIOCHEMICAL.eCLIP.HNRNPL.HepG2"             "BIOCHEMICAL.eCLIP.GTF2F1.K562"             
+[221] "BIOCHEMICAL.eCLIP.ZNF622.K562"              "BIOCHEMICAL.eCLIP.U2AF2.K562"               "BIOCHEMICAL.eCLIP.RBM22.HepG2"              "BIOCHEMICAL.eCLIP.SERBP1.K562"              "BIOCHEMICAL.eCLIP.RPS3.HepG2"              
+[226] "BIOCHEMICAL.eCLIP.LARP7.HepG2"              "BIOCHEMICAL.eCLIP.RPS11.K562"               "BIOCHEMICAL.eCLIP.FXR2.K562"                "BIOCHEMICAL.eCLIP.SRSF7.HepG2"              "BIOCHEMICAL.eCLIP.XRN2.HepG2"              
+[231] "BIOCHEMICAL.eCLIP.AQR.HepG2"                "BIOCHEMICAL.eCLIP.GRWD1.K562"               "BIOCHEMICAL.eCLIP.XPO5.HepG2"               "BIOCHEMICAL.eCLIP.NOLC1.K562"               "BIOCHEMICAL.eCLIP.SSB.K562"                
+[236] "BIOCHEMICAL.eCLIP.SUB1.HepG2"               "BIOCHEMICAL.eCLIP.LIN28B.HepG2"             "BIOCHEMICAL.eCLIP.ZNF800.HepG2"             "BIOCHEMICAL.eCLIP.CSTF2.HepG2"              "BIOCHEMICAL.eCLIP.FTO.HepG2"               
+[241] "BIOCHEMICAL.eCLIP.UCHL5.K562"               "BIOCHEMICAL.eCLIP.FXR1.K562"                "BIOCHEMICAL.eCLIP.DDX21.K562"               "BIOCHEMICAL.eCLIP.ZC3H8.K562"               "BIOCHEMICAL.eCLIP.ILF3.K562"               
+[246] "BIOCHEMICAL.eCLIP.HNRNPA1.K562"             "BIOCHEMICAL.eCLIP.DDX42.K562"               "BIOCHEMICAL.eCLIP.WRN.K562"                 "BIOCHEMICAL.eCLIP.HLTF.K562"                "BIOCHEMICAL.eCLIP.FASTKD2.K562"            
+[251] "BIOCHEMICAL.eCLIP.HNRNPC.HepG2"             "BIOCHEMICAL.eCLIP.IGF2BP1.HepG2"            "BIOCHEMICAL.eCLIP.HNRNPM.K562"              "BIOCHEMICAL.eCLIP.PABPC4.K562"              "BIOCHEMICAL.eCLIP.DDX55.K562"              
+[256] "BIOCHEMICAL.eCLIP.FUBP3.HepG2"              "BIOCHEMICAL.eCLIP.APOBEC3C.K562"            "BIOCHEMICAL.eCLIP.FMR1.K562"                "BIOCHEMICAL.eCLIP.FASTKD2.HepG2"            "BIOCHEMICAL.eCLIP.IGF2BP2.K562"            
+[261] "BIOCHEMICAL.eCLIP.RPS3.K562"                "BIOCHEMICAL.eCLIP.LARP4.HepG2"              "BIOCHEMICAL.eCLIP.DDX24.K562"               "BIOCHEMICAL.eCLIP.DGCR8.adrenal gland"      "BIOCHEMICAL.eCLIP.NIPBL.K562"              
+[266] "BIOCHEMICAL.eCLIP.PPIL4.K562"               "BIOCHEMICAL.eCLIP.WDR3.K562"                "BIOCHEMICAL.eCLIP.TAF15.HepG2"              "BIOCHEMICAL.eCLIP.UCHL5.HepG2"              "BIOCHEMICAL.eCLIP.MATR3.HepG2"             
+[271] "BIOCHEMICAL.eCLIP.PHF6.K562"                "BIOCHEMICAL.eCLIP.POLR2G.HepG2"             "BIOCHEMICAL.eCLIP.ZC3H11A.HepG2"            "BIOCHEMICAL.eCLIP.SAFB2.K562"               "BIOCHEMICAL.eCLIP.RBM15.K562"              
+[276] "BIOCHEMICAL.eCLIP.UPF1.K562"                "BIOCHEMICAL.eCLIP.EWSR1.K562"               "BIOCHEMICAL.eCLIP.SND1.HepG2"               "BIOCHEMICAL.eCLIP.HNRNPUL1.HepG2"           "BIOCHEMICAL.eCLIP.TROVE2.HepG2"            
+[281] "BIOCHEMICAL.eCLIP.TIAL1.HepG2"              "BIOCHEMICAL.eCLIP.DDX6.HepG2"               "BIOCHEMICAL.eCLIP.TBRG4.K562"               "BIOCHEMICAL.eCLIP.SLBP.K562"                "BIOCHEMICAL.eCLIP.DKC1.HepG2"              
+[286] "BIOCHEMICAL.eCLIP.EIF3G.K562"               "BIOCHEMICAL.eCLIP.CPSF6.K562"               "BIOCHEMICAL.eCLIP.U2AF1.K562"               "BIOCHEMICAL.eCLIP.PCBP2.HepG2"              "BIOCHEMICAL.eCLIP.UTP18.HepG2"             
+[291] "BIOCHEMICAL.eCLIP.METAP2.K562"              "BIOCHEMICAL.eCLIP.SF3B4.K562"               "BIOCHEMICAL.eCLIP.IGF2BP1.K562"             "BIOCHEMICAL.eCLIP.DHX30.HepG2"              "BIOCHEMICAL.eCLIP.CPEB4.K562"              
+[296] "BIOCHEMICAL.eCLIP.GPKOW.K562"               "BIOCHEMICAL.eCLIP.STAU2.HepG2"              "BIOCHEMICAL.eCLIP.UPF1.HepG2"               "BIOCHEMICAL.eCLIP.NCBP2.HepG2"              "BIOCHEMICAL.eCLIP.XRN2.K562"               
+[301] "BIOCHEMICAL.eCLIP.SLTM.K562"                "BIOCHEMICAL.eCLIP.QKI.HepG2"                "BIOCHEMICAL.eCLIP.PABPN1.HepG2"             "BIOCHEMICAL.eCLIP.U2AF2.HepG2"              "BIOCHEMICAL.eCLIP.TRA2A.K562"              
+[306] "BIOCHEMICAL.eCLIP.PTBP1.HepG2"              "BIOCHEMICAL.eCLIP.NONO.K562"                "BIOCHEMICAL.eCLIP.SMNDC1.HepG2"             "BIOCHEMICAL.eCLIP.YBX3.K562"                "BIOCHEMICAL.eCLIP.AKAP1.HepG2"             
+[311] "BIOCHEMICAL.eCLIP.HNRNPM.HepG2"             "BIOCHEMICAL.eCLIP.TIA1.HepG2"               "BIOCHEMICAL.eCLIP.SRSF9.HepG2"              "BIOCHEMICAL.eCLIP.TRA2A.HepG2"              "BIOCHEMICAL.eCLIP.KHSRP.HepG2"             
+[316] "BIOCHEMICAL.eCLIP.DDX3X.HepG2"              "BIOCHEMICAL.eCLIP.SRSF7.K562"               "BIOCHEMICAL.eCLIP.UTP18.K562"               "BIOCHEMICAL.eCLIP.QKI.K562"                 "BIOCHEMICAL.eCLIP.TROVE2.K562"             
+[321] "BIOCHEMICAL.eCLIP.EFTUD2.HepG2"             "BIOCHEMICAL.eCLIP.DROSHA.K562"              "BIOCHEMICAL.eCLIP.HNRNPA1.HepG2"            "BIOCHEMICAL.eCLIP.DDX55.HepG2"              "BIOCHEMICAL.eCLIP.DDX51.K562"              
+[326] "BIOCHEMICAL.eCLIP.LARP7.K562"               "BIOCHEMICAL.eCLIP.BCLAF1.HepG2"             "BIOCHEMICAL.eCLIP.AGGF1.K562"               "BIOCHEMICAL.eCLIP.EIF3H.HepG2"              "BIOCHEMICAL.eCLIP.TAF15.K562"              
+[331] "BIOCHEMICAL.eCLIP.SDAD1.HepG2"              "BIOCHEMICAL.eCLIP.SSB.HepG2"                "BIOCHEMICAL.eCLIP.DROSHA.HepG2"             "BIOCHEMICAL.eCLIP.HNRNPK.HepG2"             "BIOCHEMICAL.eCLIP.EXOSC5.K562"             
+[336] "BIOCHEMICAL.eCLIP.LSM11.K562"               "BIOCHEMICAL.eCLIP.PRPF8.K562"               "BIOCHEMICAL.eCLIP.FUS.K562"                 "BIOCHEMICAL.eCLIP.EXOSC5.HepG2"             "BIOCHEMICAL.eCLIP.EFTUD2.K562"             
+[341] "BIOCHEMICAL.eCLIP.TBRG4.HepG2"              "BIOCHEMICAL.eCLIP.RBFOX2.HepG2"             "BIOCHEMICAL.eCLIP.CSTF2T.K562"              "BIOCHEMICAL.eCLIP.PUM2.K562"                "BIOCHEMICAL.eCLIP.MTPAP.K562"              
+[346] "BIOCHEMICAL.eCLIP.NCBP2.K562"               "BIOCHEMICAL.eCLIP.IGF2BP3.HepG2"            "BIOCHEMICAL.eCLIP.SRSF1.K562"               "BIOCHEMICAL.eCLIP.SF3B1.K562"               "BIOCHEMICAL.eCLIP.HNRNPUL1.K562"           
+[351] "BIOCHEMICAL.eCLIP.DDX59.HepG2"              "BIOCHEMICAL.eCLIP.G3BP1.HepG2"              "BIOCHEMICAL.eCLIP.PCBP1.K562"               "BIOCHEMICAL.eCLIP.DDX6.K562"                "BIOCHEMICAL.eCLIP.PTBP1.K562"              
+[356] "BIOCHEMICAL.eCLIP.NOL12.HepG2"              "BIOCHEMICAL.eCLIP.HNRNPL.K562"              "BIOCHEMICAL.eCLIP.TIA1.K562"                "BIOCHEMICAL.eCLIP.HNRNPK.K562"              "BIOCHEMICAL.eCLIP.FTO.K562"                
+[361] "BIOCHEMICAL.eCLIP.RBM5.HepG2"               "BIOCHEMICAL.eCLIP.GRSF1.HepG2"              "BIOCHEMICAL.eCLIP.YWHAG.K562"               "BIOCHEMICAL.eCLIP.SRSF1.HepG2"              "BIOCHEMICAL.eCLIP.ABCF1.K562"              
+[366] "BIOCHEMICAL.eCLIP.SMNDC1.K562"              "BIOCHEMICAL.eCLIP.WDR43.HepG2"              "BIOCHEMICAL.eCLIP.LARP4.K562"               "BIOCHEMICAL.eCLIP.AQR.K562"                 "BIOCHEMICAL.eCLIP.SF3A3.HepG2"             
+[371] "BIOCHEMICAL.eCLIP.SAFB.K562"                "BIOCHEMICAL.eCLIP.AATF.K562"                "BIOCHEMICAL.eCLIP.FKBP4.HepG2"              "BIOCHEMICAL.eCLIP.XRCC6.K562"               "BIOCHEMICAL.eCLIP.FUS.HepG2"               
+[376] "BIOCHEMICAL.eCLIP.RBM22.K562"               "BIOCHEMICAL.eCLIP.LSM11.HepG2"              "BIOCHEMICAL.eCLIP.PPIG.HepG2"               "BIOCHEMICAL.eCLIP.AGGF1.HepG2"              "BIOCHEMICAL.eCLIP.XRCC6.HepG2"             
+[381] "BIOCHEMICAL.eCLIP.SUPV3L1.HepG2"           
+[1] "With Ensembl IDs + Features:  12981"
+[1] "Dimensions:  12981" "Dimensions:  381"  
+            GENEID   HALFLIFE BASIC.UTR5LEN BASIC.CDSLEN BASIC.INTRONLEN
+1  ENSG00000000003  8.6609546      2.045714     2.862191        3.774013
+2  ENSG00000000457 -6.9291729      2.342620     3.345001        4.577654
+3  ENSG00000000460  0.4409086      2.843295     3.404338        4.735160
+4  ENSG00000000938 -0.9436801      2.456518     3.197584        4.311798
+5  ENSG00000000971  7.7204267      2.378580     3.564796        4.961545
+6  ENSG00000001036  8.3098107      1.741152     3.144294        4.162418
+7  ENSG00000001084 -3.7929552      2.684037     3.277632        4.643414
+8  ENSG00000001167 -6.4981408      2.299071     3.013722        4.366145
+9  ENSG00000001460 -3.5762115      2.403292     2.997430        4.742789
+10 ENSG00000001461  0.2905773      2.563600     3.081743        4.714490
+null device 
+          1 
+     lambda.min
+[1,]  0.6013333
+     lambda.min
+[1,]  0.6087269
+                  BASIC.ORFEXONDENSITY              BIOCHEMICAL.ENCORI.ELAVL1               BIOCHEMICAL.ENCORI.LIN28                BIOCHEMICAL.ENCORI.FMR1                BIOCHEMICAL.ENCORI.SND1               BIOCHEMICAL.ENCORI.PRPF8 
+                          3.115893e-01                          -2.283894e-01                           1.258955e-01                          -1.253404e-01                           1.151167e-01                          -9.520979e-02 
+                BIOCHEMICAL.ENCORI.FUS               BIOCHEMICAL.ENCORI.RC3H1              BIOCHEMICAL.ENCORI.LARP4B               BIOCHEMICAL.ENCORI.U2AF2              BIOCHEMICAL.ENCORI.RBFOX2          BIOCHEMICAL.eCLIP.LARP4.HepG2 
+                          9.466842e-02                          -9.193924e-02                           8.680276e-02                           8.620662e-02                           8.521002e-02                           8.428106e-02 
+             BIOCHEMICAL.ENCORI.YTHDF1               BIOCHEMICAL.ENCORI.DDX3X              BIOCHEMICAL.ENCORI.LIN28B            BIOCHEMICAL.eCLIP.PUM2.K562                BIOCHEMICAL.ENCORI.UPF1            BIOCHEMICAL.eCLIP.YBX3.K562 
+                         -8.135881e-02                           7.822501e-02                           7.714451e-02                          -7.484400e-02                          -7.445344e-02                           7.092777e-02 
+        BIOCHEMICAL.M6ACLIP.m6aJaffrey              BIOCHEMICAL.ENCORI.LIN28A               BIOCHEMICAL.ENCORI.TAF15                BIOCHEMICAL.ENCORI.CNBP              BIOCHEMICAL.ENCORI.HNRNPM             BIOCHEMICAL.ENCORI.HNRNPA1 
+                         -6.718171e-02                           6.548823e-02                          -6.463289e-02                          -6.395010e-02                          -5.988569e-02                          -5.923048e-02 
+            BIOCHEMICAL.ENCORI.IGF2BP3               BIOCHEMICAL.ENCORI.BCCIP           BIOCHEMICAL.eCLIP.RBM15.K562               BIOCHEMICAL.ENCORI.BUD13           BIOCHEMICAL.eCLIP.SUB1.HepG2                 BIOCHEMICAL.ENCORI.QKI 
+                          5.711916e-02                          -5.660938e-02                          -5.631580e-02                          -5.625934e-02                           5.528735e-02                           5.435362e-02 
+         BIOCHEMICAL.eCLIP.DDX3X.HepG2                BIOCHEMICAL.ENCORI.FXR2                BIOCHEMICAL.ENCORI.PUM2               BIOCHEMICAL.ENCORI.ZFP36                           BASIC.UTR3GC           BIOCHEMICAL.eCLIP.DDX3X.K562 
+                          5.400734e-02                           5.329965e-02                          -5.301624e-02                          -5.037452e-02                           4.968740e-02                           4.956235e-02 
+      BIOCHEMICAL.M6ACLIP.m6Am_Jaffrey          BIOCHEMICAL.eCLIP.PABPC4.K562          BIOCHEMICAL.eCLIP.PRPF8.HepG2               BIOCHEMICAL.ENCORI.PTBP1               BIOCHEMICAL.ENCORI.KHSRP        BIOCHEMICAL.M6ACLIP.m6A_HEK_Shu 
+                          4.915767e-02                           4.902967e-02                          -4.657943e-02                           4.573217e-02                          -4.502774e-02                          -4.382923e-02 
+              BIOCHEMICAL.ENCORI.SRSF9                          BASIC.UTR3LEN              BIOCHEMICAL.ENCORI.HNRNPC          BIOCHEMICAL.eCLIP.RBM15.HepG2             BIOCHEMICAL.ENCORI.IGF2BP1               BIOCHEMICAL.ENCORI.ACIN1 
+                          4.351096e-02                          -4.285297e-02                          -4.200180e-02                          -4.099046e-02                           4.034219e-02                           4.020411e-02 
+              BIOCHEMICAL.ENCORI.RBM22           BIOCHEMICAL.ENCORI.HNRNPA2B1            BIOCHEMICAL.eCLIP.AQR.HepG2             BIOCHEMICAL.ENCORI.KHDRBS2               BIOCHEMICAL.ENCORI.LSM11           BIOCHEMICAL.eCLIP.PPIG.HepG2 
+                         -3.977104e-02                           3.689902e-02                          -3.578641e-02                           3.412673e-02                           3.366416e-02                           3.312137e-02 
+         BIOCHEMICAL.eCLIP.BUD13.HepG2                BIOCHEMICAL.ENCORI.XRN2              BIOCHEMICAL.ENCORI.TNRC6A          BIOCHEMICAL.eCLIP.EFTUD2.K562                BIOCHEMICAL.ENCORI.MSI2               BIOCHEMICAL.ENCORI.AIFM1 
+                         -3.287432e-02                          -3.234974e-02                          -3.143779e-02                          -3.051546e-02                           2.959227e-02                           2.942916e-02 
+             BIOCHEMICAL.ENCORI.CSTF2T     BIOCHEMICAL.M6ACLIP.m6a_H1T0_Chang               BIOCHEMICAL.ENCORI.CPSF6                BIOCHEMICAL.ENCORI.SLTM              BIOCHEMICAL.ENCORI.EIF4A3    BIOCHEMICAL.M6ACLIP.m6a_H1T48_Chang 
+                         -2.810195e-02                          -2.675079e-02                          -2.650803e-02                          -2.647679e-02                           2.643332e-02                          -2.630509e-02 
+          BIOCHEMICAL.eCLIP.PRPF8.K562          BIOCHEMICAL.eCLIP.RBFOX2.K562          BIOCHEMICAL.eCLIP.PRPF4.HepG2             BIOCHEMICAL.ENCORI.FAM120A                 BIOCHEMICAL.ENCORI.VIM               BIOCHEMICAL.ENCORI.LARP7 
+                         -2.587919e-02                           2.569258e-02                           2.543283e-02                           2.537468e-02                           2.510864e-02                           2.462992e-02 
+                         BASIC.UTR5LEN            BIOCHEMICAL.eCLIP.DDX6.K562                 BIOCHEMICAL.ENCORI.FTO           BIOCHEMICAL.eCLIP.GPKOW.K562            BIOCHEMICAL.eCLIP.UPF1.K562                        BASIC.INTRONLEN 
+                         -2.458148e-02                          -2.422705e-02                           2.402919e-02                          -2.402310e-02                          -2.379696e-02                           2.331373e-02 
+          BIOCHEMICAL.eCLIP.SND1.HepG2               BIOCHEMICAL.ENCORI.SF3B4              BIOCHEMICAL.ENCORI.DICER1               BIOCHEMICAL.ENCORI.MOV10         BIOCHEMICAL.eCLIP.FAM120A.K562               BIOCHEMICAL.ENCORI.MBNL2 
+                          2.290368e-02                          -2.251909e-02                          -2.245642e-02                           2.200216e-02                           2.171160e-02                           2.142489e-02 
+       BIOCHEMICAL.M6ACLIP.m6A_Schwarz             BIOCHEMICAL.ENCORI.IGF2BP2            BIOCHEMICAL.eCLIP.SLBP.K562               BIOCHEMICAL.ENCORI.DDX42               BIOCHEMICAL.ENCORI.NUMA1          BIOCHEMICAL.eCLIP.EXOSC5.K562 
+                         -2.108579e-02                           2.081055e-02                          -2.066688e-02                           2.019157e-02                           2.000903e-02                           1.990168e-02 
+           BIOCHEMICAL.eCLIP.SND1.K562                 BIOCHEMICAL.ENCORI.AUH              BIOCHEMICAL.ENCORI.SRSF10          BIOCHEMICAL.eCLIP.G3BP1.HepG2               BIOCHEMICAL.ENCORI.DDX54          BIOCHEMICAL.eCLIP.EIF3D.HepG2 
+                          1.931311e-02                           1.927982e-02                          -1.925835e-02                           1.925347e-02                           1.924442e-02                          -1.875231e-02 
+               BIOCHEMICAL.ENCORI.ADAR                           BASIC.CDSLEN              BIOCHEMICAL.ENCORI.RNF219        BIOCHEMICAL.eCLIP.APOBEC3C.K562          BIOCHEMICAL.eCLIP.CSTF2T.K562           BIOCHEMICAL.eCLIP.DDX24.K562 
+                          1.857813e-02                           1.847494e-02                           1.818830e-02                           1.809534e-02                          -1.806147e-02                           1.797799e-02 
+          BIOCHEMICAL.eCLIP.DDX6.HepG2       BIOCHEMICAL.M6ACLIP.a6A_HeLa_Shu                BIOCHEMICAL.ENCORI.NONO          BIOCHEMICAL.eCLIP.TARDBP.K562         BIOCHEMICAL.eCLIP.LIN28B.HepG2               BIOCHEMICAL.ENCORI.EIF3D 
+                         -1.759278e-02                          -1.714117e-02                          -1.710285e-02                          -1.668988e-02                           1.655100e-02                          -1.649710e-02 
+              BIOCHEMICAL.ENCORI.EWSR1               BIOCHEMICAL.ENCORI.NCBP3             BIOCHEMICAL.eCLIP.AQR.K562          BIOCHEMICAL.eCLIP.SF3A3.HepG2              BIOCHEMICAL.ENCORI.HNRNPK           BIOCHEMICAL.eCLIP.WDR43.K562 
+                          1.641017e-02                          -1.632559e-02                          -1.611651e-02                           1.511516e-02                           1.481076e-02                           1.448797e-02 
+          BIOCHEMICAL.eCLIP.HLTF.HepG2              BIOCHEMICAL.ENCORI.EIF4G2        BIOCHEMICAL.eCLIP.HNRNPUL1.K562             BIOCHEMICAL.ENCORI.KHDRBS3               BIOCHEMICAL.ENCORI.TRA2A              BIOCHEMICAL.ENCORI.TARBP2 
+                          1.400401e-02                           1.379440e-02                          -1.365148e-02                           1.364032e-02                          -1.352407e-02                          -1.328694e-02 
+            BIOCHEMICAL.ENCORI.RANGAP1                BIOCHEMICAL.ENCORI.GNL3           BIOCHEMICAL.eCLIP.SFPQ.HepG2             BIOCHEMICAL.ENCORI.METTL14              BIOCHEMICAL.ENCORI.ELAVL3         BIOCHEMICAL.eCLIP.ZNF800.HepG2 
+                          1.302790e-02                           1.280213e-02                          -1.272222e-02                           1.269245e-02                          -1.244300e-02                           1.223786e-02 
+         BIOCHEMICAL.eCLIP.DDX55.HepG2            BIOCHEMICAL.eCLIP.NONO.K562           BIOCHEMICAL.eCLIP.DDX51.K562          BIOCHEMICAL.eCLIP.FUBP3.HepG2           BIOCHEMICAL.eCLIP.EIF3G.K562          BIOCHEMICAL.eCLIP.GRWD1.HepG2 
+                         -1.205361e-02                          -1.200784e-02                           1.197432e-02                          -1.184430e-02                           1.183200e-02                           1.171961e-02 
+          BIOCHEMICAL.eCLIP.DKC1.HepG2          BIOCHEMICAL.M6ACLIP.He_METTL3          BIOCHEMICAL.eCLIP.LSM11.HepG2          BIOCHEMICAL.eCLIP.HNRNPK.K562          BIOCHEMICAL.eCLIP.CDC40.HepG2           BIOCHEMICAL.eCLIP.MATR3.K562 
+                         -1.159257e-02                          -1.108149e-02                           1.107040e-02                           1.098321e-02                          -1.082954e-02                           1.076959e-02 
+        BIOCHEMICAL.eCLIP.CSTF2T.HepG2           BIOCHEMICAL.eCLIP.TAF15.K562               BIOCHEMICAL.ENCORI.MBNL1        BIOCHEMICAL.eCLIP.IGF2BP3.HepG2           BIOCHEMICAL.eCLIP.KHSRP.K562               BIOCHEMICAL.ENCORI.RBM47 
+                         -1.067935e-02                           1.040663e-02                           1.008211e-02                           9.925623e-03                          -9.846404e-03                           9.758812e-03 
+        BIOCHEMICAL.eCLIP.EXOSC5.HepG2            BIOCHEMICAL.eCLIP.FMR1.K562          BIOCHEMICAL.M6ACLIP.m6a_Chang          BIOCHEMICAL.eCLIP.DGCR8.HepG2              BIOCHEMICAL.ENCORI.ALYREF             BIOCHEMICAL.ENCORI.CAPRIN1 
+                          9.700643e-03                          -9.646676e-03                          -9.495685e-03                           9.391426e-03                          -9.340073e-03                           8.979003e-03 
+             BIOCHEMICAL.ENCORI.DIS3L2           BIOCHEMICAL.eCLIP.NCBP2.K562          BIOCHEMICAL.eCLIP.METAP2.K562         BIOCHEMICAL.eCLIP.SMNDC1.HepG2              BIOCHEMICAL.ENCORI.EIF4A1          BIOCHEMICAL.eCLIP.HNRNPM.K562 
+                         -8.642247e-03                           8.627134e-03                           8.542166e-03                          -8.327367e-03                           8.270022e-03                          -8.222443e-03 
+          BIOCHEMICAL.eCLIP.NIP7.HepG2               BIOCHEMICAL.ENCORI.FKBP4           BIOCHEMICAL.eCLIP.UPF1.HepG2         BIOCHEMICAL.eCLIP.HNRNPU.HepG2               BIOCHEMICAL.ENCORI.RBM39         BIOCHEMICAL.eCLIP.DROSHA.HepG2 
+                          8.160537e-03                          -8.121897e-03                           7.991946e-03                          -7.990841e-03                          -7.907488e-03                           7.862610e-03 
+               BIOCHEMICAL.ENCORI.DHX9                BIOCHEMICAL.ENCORI.CBX7          BIOCHEMICAL.eCLIP.FKBP4.HepG2              BIOCHEMICAL.ENCORI.ZC3H7B          BIOCHEMICAL.eCLIP.PCBP2.HepG2           BIOCHEMICAL.eCLIP.TRA2A.K562 
+                          7.791934e-03                           7.435526e-03                           7.356912e-03                          -7.274505e-03                          -7.268651e-03                           7.266605e-03 
+          BIOCHEMICAL.eCLIP.SRSF1.K562            BIOCHEMICAL.M6ACLIP.He_WTAP        BIOCHEMICAL.eCLIP.FASTKD2.HepG2          BIOCHEMICAL.eCLIP.WDR43.HepG2         BIOCHEMICAL.eCLIP.IGF2BP1.K562                           BASIC.UTR5GC 
+                          7.058002e-03                          -6.926203e-03                          -6.902743e-03                          -6.634481e-03                           6.591532e-03                           6.187141e-03 
+              BIOCHEMICAL.ENCORI.CELF2          BIOCHEMICAL.eCLIP.UTP18.HepG2           BIOCHEMICAL.eCLIP.CPEB4.K562         BIOCHEMICAL.eCLIP.FASTKD2.K562                            BASIC.CDSGC            BIOCHEMICAL.eCLIP.WDR3.K562 
+                         -6.093086e-03                          -6.031457e-03                          -5.954842e-03                          -5.860554e-03                          -5.821216e-03                           5.763567e-03 
+              BIOCHEMICAL.ENCORI.SRSF1          BIOCHEMICAL.eCLIP.UCHL5.HepG2           BIOCHEMICAL.eCLIP.RBM5.HepG2                BIOCHEMICAL.ENCORI.RTCB              BIOCHEMICAL.ENCORI.METTL3            BIOCHEMICAL.eCLIP.PHF6.K562 
+                          5.697241e-03                           5.675501e-03                           5.648332e-03                           5.628856e-03                          -5.593264e-03                          -5.505646e-03 
+          BIOCHEMICAL.eCLIP.AKAP1.K562               BIOCHEMICAL.ENCORI.YWHAG                BIOCHEMICAL.ENCORI.SLBP                BIOCHEMICAL.ENCORI.MSI1           BIOCHEMICAL.eCLIP.NIPBL.K562            BIOCHEMICAL.eCLIP.ILF3.K562 
+                         -5.499804e-03                          -5.414118e-03                           5.393161e-03                          -5.319406e-03                           5.279828e-03                           5.060250e-03 
+         BIOCHEMICAL.eCLIP.DHX30.HepG2          BIOCHEMICAL.eCLIP.AKAP8L.K562              BIOCHEMICAL.ENCORI.SMNDC1          BIOCHEMICAL.eCLIP.PCBP1.HepG2          BIOCHEMICAL.eCLIP.SDAD1.HepG2          BIOCHEMICAL.eCLIP.SRSF1.HepG2 
+                          5.059936e-03                           5.047694e-03                           5.037789e-03                           4.941646e-03                          -4.935530e-03                           4.859160e-03 
+         BIOCHEMICAL.eCLIP.ZNF622.K562              BIOCHEMICAL.ENCORI.EIF4G1           BIOCHEMICAL.eCLIP.SF3B1.K562               BIOCHEMICAL.ENCORI.DGCR8           BIOCHEMICAL.eCLIP.SLTM.HepG2         BIOCHEMICAL.eCLIP.PABPN1.HepG2 
+                         -4.820084e-03                           4.787544e-03                           4.770931e-03                           4.743547e-03                           4.645702e-03                           4.432239e-03 
+         BIOCHEMICAL.eCLIP.DDX52.HepG2            BIOCHEMICAL.eCLIP.QKI.HepG2            BIOCHEMICAL.eCLIP.AARS.K562          BIOCHEMICAL.eCLIP.HNRNPL.K562           BIOCHEMICAL.eCLIP.SDAD1.K562               BIOCHEMICAL.ENCORI.TIAL1 
+                          4.389396e-03                           4.380582e-03                          -4.246002e-03                           4.241608e-03                          -4.230968e-03                          -4.184073e-03 
+          BIOCHEMICAL.eCLIP.DGCR8.K562               BIOCHEMICAL.ENCORI.NOP56           BIOCHEMICAL.eCLIP.DDX55.K562        BIOCHEMICAL.eCLIP.IGF2BP1.HepG2           BIOCHEMICAL.eCLIP.LARP7.K562          BIOCHEMICAL.eCLIP.NCBP2.HepG2 
+                         -4.153453e-03                           4.119295e-03                          -4.068249e-03                           4.031967e-03                          -4.012406e-03                          -3.979140e-03 
+           BIOCHEMICAL.eCLIP.HLTF.K562          BIOCHEMICAL.eCLIP.PTBP1.HepG2            BIOCHEMICAL.eCLIP.NPM1.K562           BIOCHEMICAL.eCLIP.SAFB.HepG2  BIOCHEMICAL.eCLIP.DGCR8.adrenal gland           BIOCHEMICAL.eCLIP.NSUN2.K562 
+                          3.966628e-03                          -3.912187e-03                          -3.899512e-03                           3.768446e-03                           3.763166e-03                           3.672125e-03 
+         BIOCHEMICAL.eCLIP.DDX59.HepG2         BIOCHEMICAL.eCLIP.TROVE2.HepG2         BIOCHEMICAL.eCLIP.RBFOX2.HepG2          BIOCHEMICAL.eCLIP.BCCIP.HepG2          BIOCHEMICAL.eCLIP.TIAL1.HepG2           BIOCHEMICAL.eCLIP.UCHL5.K562 
+                          3.666718e-03                           3.663183e-03                           3.607269e-03                           3.585742e-03                           3.561097e-03                           3.412667e-03 
+          BIOCHEMICAL.eCLIP.XRCC6.K562           BIOCHEMICAL.eCLIP.RPS3.HepG2          BIOCHEMICAL.eCLIP.ZNF800.K562           BIOCHEMICAL.eCLIP.XPO5.HepG2          BIOCHEMICAL.eCLIP.HNRNPU.K562     BIOCHEMICAL.M6ACLIP.a6A_HEK293_Shu 
+                          3.300599e-03                           3.252491e-03                           3.223173e-03                          -3.172623e-03                          -3.133215e-03                          -2.830278e-03 
+               BIOCHEMICAL.ENCORI.RBM6            BIOCHEMICAL.eCLIP.FXR1.K562         BIOCHEMICAL.eCLIP.KHDRBS1.K562          BIOCHEMICAL.eCLIP.TBRG4.HepG2           BIOCHEMICAL.eCLIP.ZC3H8.K562              BIOCHEMICAL.ENCORI.YTHDF2 
+                          2.702359e-03                          -2.568305e-03                          -2.562859e-03                          -2.407790e-03                           2.351070e-03                          -2.340988e-03 
+          BIOCHEMICAL.eCLIP.NKRF.HepG2           BIOCHEMICAL.eCLIP.EWSR1.K562           BIOCHEMICAL.eCLIP.UTP18.K562         BIOCHEMICAL.eCLIP.SUPV3L1.K562           BIOCHEMICAL.eCLIP.TBRG4.K562           BIOCHEMICAL.eCLIP.TIA1.HepG2 
+                         -2.331190e-03                          -2.293578e-03                           2.183159e-03                           2.125349e-03                          -2.088832e-03                           1.972672e-03 
+            BIOCHEMICAL.eCLIP.WRN.K562                BIOCHEMICAL.ENCORI.WTAP           BIOCHEMICAL.eCLIP.MTPAP.K562            BIOCHEMICAL.eCLIP.SBDS.K562                BIOCHEMICAL.ENCORI.PUM1            BIOCHEMICAL.eCLIP.SAFB.K562 
+                          1.950664e-03                          -1.938816e-03                           1.890867e-03                          -1.751502e-03                          -1.637163e-03                           1.636109e-03 
+         BIOCHEMICAL.eCLIP.SERBP1.K562        BIOCHEMICAL.eCLIP.ZC3H11A.HepG2           BIOCHEMICAL.eCLIP.LSM11.K562        BIOCHEMICAL.eCLIP.SUPV3L1.HepG2           BIOCHEMICAL.eCLIP.FXR2.HepG2           BIOCHEMICAL.eCLIP.CPSF6.K562 
+                         -1.628458e-03                           1.616289e-03                          -1.514146e-03                          -1.511207e-03                           1.396281e-03                           1.334930e-03 
+         BIOCHEMICAL.eCLIP.LARP7.HepG2          BIOCHEMICAL.eCLIP.TAF15.HepG2          BIOCHEMICAL.eCLIP.EIF3H.HepG2           BIOCHEMICAL.eCLIP.RBM22.K562           BIOCHEMICAL.eCLIP.U2AF2.K562           BIOCHEMICAL.eCLIP.PTBP1.K562 
+                         -1.300210e-03                          -1.288720e-03                           1.239111e-03                          -1.141464e-03                           1.077994e-03                           1.065801e-03 
+           BIOCHEMICAL.eCLIP.SLTM.K562          BIOCHEMICAL.eCLIP.GRSF1.HepG2         BIOCHEMICAL.eCLIP.EFTUD2.HepG2           BIOCHEMICAL.eCLIP.DDX52.K562              BIOCHEMICAL.ENCORI.YTHDC2          BIOCHEMICAL.eCLIP.HNRNPC.K562 
+                          1.040278e-03                           1.018199e-03                          -9.777441e-04                          -9.384830e-04                           9.180681e-04                           9.157474e-04 
+         BIOCHEMICAL.eCLIP.AKAP1.HepG2 BIOCHEMICAL.eCLIP.HNRNPU.adrenal gland              BIOCHEMICAL.ENCORI.HNRNPU            BIOCHEMICAL.eCLIP.AATF.K562         BIOCHEMICAL.eCLIP.POLR2G.HepG2              BIOCHEMICAL.ENCORI.YTHDC1 
+                         -9.071722e-04                          -8.882896e-04                           8.628522e-04                           7.126933e-04                          -6.646768e-04                           6.232049e-04 
+             BIOCHEMICAL.ENCORI.ALKBH5         BIOCHEMICAL.eCLIP.GTF2F1.HepG2           BIOCHEMICAL.eCLIP.DDX42.K562            BIOCHEMICAL.eCLIP.PUS1.K562          BIOCHEMICAL.eCLIP.XRCC6.HepG2          BIOCHEMICAL.eCLIP.SRSF7.HepG2 
+                         -5.845445e-04                           5.499828e-04                           4.999916e-04                          -4.602265e-04                          -4.564392e-04                          -2.421083e-04 
+         BIOCHEMICAL.eCLIP.ZRANB2.K562          BIOCHEMICAL.eCLIP.LIN28B.K562          BIOCHEMICAL.eCLIP.U2AF1.HepG2             BIOCHEMICAL.eCLIP.FTO.K562          BIOCHEMICAL.eCLIP.KHSRP.HepG2               BIOCHEMICAL.ENCORI.SF3A3 
+                          2.050236e-04                           1.768528e-04                           1.295095e-04                          -6.318546e-05                           5.673504e-05                           5.513944e-05 
+       BIOCHEMICAL.eCLIP.HNRNPA1.HepG2                            (Intercept) 
+                          1.004127e-05                          -1.907731e-15 
+[1] 290
+null device 
+          1 
+[1] "0.776118279222242"
+[1] "0.776282507731734"
+[1] "0.778321176825427"
+[1] "0.767086436891302"
+[1] "0.749066774738637"
+[1] "0.764971020691313"
+[1] "0.770373990255983"
+[1] "0.776158081097251"
+[1] "0.759545098479738"
+[1] "0.763400906280712"
+          [,1]
+[1,] 0.5825402
+          [,1]
+[1,] 0.5896186
+null device 
+          1 

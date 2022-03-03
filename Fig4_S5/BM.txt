@@ -1,0 +1,48 @@
+ [1] "GENEID"                         "HALFLIFE"                       "UTR5LEN"                        "CDSLEN"                         "INTRONLEN"                      "UTR3LEN"                        "UTR5GC"                        
+ [8] "CDSGC"                          "UTR3GC"                         "ORFEXONDENSITY"                 "M6ACLIP.YTHDF2_HRSP12_KimPeaks" "M6ACLIP.m6aJaffrey"             "M6ACLIP.m6Am_Jaffrey"           "M6ACLIP.m6A_Schwarz"           
+[15] "M6ACLIP.m6A_HEK_Shu"            "M6ACLIP.a6A_HeLa_Shu"           "M6ACLIP.a6A_HEK293_Shu"         "M6ACLIP.He_WTAP"                "M6ACLIP.He_METTL14"             "M6ACLIP.He_METTL3"              "M6ACLIP.m6a_H1T48_Chang"       
+[22] "M6ACLIP.m6a_H1T0_Chang"         "M6ACLIP.m6a_Chang"             
+[1] "With Ensembl IDs + Features:  12981"
+[1] "Dimensions:  12981" "Dimensions:  23"   
+            GENEID   HALFLIFE  UTR5LEN   CDSLEN INTRONLEN
+1  ENSG00000000003  8.6609546 2.045714 2.862191  3.774013
+2  ENSG00000000457 -6.9291729 2.342620 3.345001  4.577654
+3  ENSG00000000460  0.4409086 2.843295 3.404338  4.735160
+4  ENSG00000000938 -0.9436801 2.456518 3.197584  4.311798
+5  ENSG00000000971  7.7204267 2.378580 3.564796  4.961545
+6  ENSG00000001036  8.3098107 1.741152 3.144294  4.162418
+7  ENSG00000001084 -3.7929552 2.684037 3.277632  4.643414
+8  ENSG00000001167 -6.4981408 2.299071 3.013722  4.366145
+9  ENSG00000001460 -3.5762115 2.403292 2.997430  4.742789
+10 ENSG00000001461  0.2905773 2.563600 3.081743  4.714490
+null device 
+          1 
+     lambda.min
+[1,]  0.3895003
+     lambda.min
+[1,]  0.3822993
+                ORFEXONDENSITY           M6ACLIP.m6Am_Jaffrey                         UTR3GC                        UTR3LEN             M6ACLIP.m6aJaffrey           M6ACLIP.a6A_HeLa_Shu                         UTR5GC 
+                  4.606617e-01                   1.745120e-01                   1.204023e-01                  -9.443949e-02                  -7.647512e-02                  -6.072425e-02                   5.219441e-02 
+                     INTRONLEN              M6ACLIP.He_METTL3 M6ACLIP.YTHDF2_HRSP12_KimPeaks              M6ACLIP.m6a_Chang         M6ACLIP.a6A_HEK293_Shu                M6ACLIP.He_WTAP            M6ACLIP.m6A_HEK_Shu 
+                 -4.060202e-02                  -4.004143e-02                   3.953328e-02                  -2.771699e-02                   2.676723e-02                  -2.270508e-02                  -2.161960e-02 
+           M6ACLIP.m6A_Schwarz        M6ACLIP.m6a_H1T48_Chang                        UTR5LEN                         CDSLEN         M6ACLIP.m6a_H1T0_Chang             M6ACLIP.He_METTL14                    (Intercept) 
+                 -1.493106e-02                  -1.426772e-02                  -1.414439e-02                   1.190267e-02                  -9.136323e-03                  -7.421815e-03                   7.934503e-16 
+[1] 21
+null device 
+          1 
+[1] "0.61865352014193"
+[1] "0.625171024844023"
+[1] "0.632927257075146"
+[1] "0.606899963887293"
+[1] "0.61122890481462"
+[1] "0.629250365291601"
+[1] "0.61489877604624"
+[1] "0.616654932599768"
+[1] "0.607154835024495"
+[1] "0.609450133979685"
+          [,1]
+[1,] 0.3873365
+          [,1]
+[1,] 0.3798418
+null device 
+          1 

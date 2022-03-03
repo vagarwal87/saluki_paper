@@ -1,0 +1,102 @@
+  [1] "GENEID"                     "HALFLIFE"                   "UTR5LEN"                    "CDSLEN"                     "INTRONLEN"                  "UTR3LEN"                    "UTR5GC"                    
+  [8] "CDSGC"                      "UTR3GC"                     "ORFEXONDENSITY"             "eCLIP.GTF2F1.HepG2"         "eCLIP.DDX52.HepG2"          "eCLIP.BUD13.HepG2"          "eCLIP.DGCR8.K562"          
+ [15] "eCLIP.CDC40.HepG2"          "eCLIP.KHDRBS1.K562"         "eCLIP.UTP3.K562"            "eCLIP.KHSRP.K562"           "eCLIP.AKAP1.K562"           "eCLIP.NIP7.HepG2"           "eCLIP.TARDBP.K562"         
+ [22] "eCLIP.HNRNPU.HepG2"         "eCLIP.NKRF.HepG2"           "eCLIP.HLTF.HepG2"           "eCLIP.GNL3.K562"            "eCLIP.PRPF8.HepG2"          "eCLIP.GEMIN5.K562"          "eCLIP.SBDS.K562"           
+ [29] "eCLIP.RBM15.HepG2"          "eCLIP.U2AF1.HepG2"          "eCLIP.EIF3D.HepG2"          "eCLIP.ZRANB2.K562"          "eCLIP.LIN28B.K562"          "eCLIP.ILF3.HepG2"           "eCLIP.SF3B4.HepG2"         
+ [36] "eCLIP.DDX3X.K562"           "eCLIP.PUM1.K562"            "eCLIP.PCBP1.HepG2"          "eCLIP.ZNF800.K562"          "eCLIP.FXR2.HepG2"           "eCLIP.SDAD1.K562"           "eCLIP.SLTM.HepG2"          
+ [43] "eCLIP.DHX30.K562"           "eCLIP.AARS.K562"            "eCLIP.BCCIP.HepG2"          "eCLIP.NOLC1.HepG2"          "eCLIP.SFPQ.HepG2"           "eCLIP.CSTF2T.HepG2"         "eCLIP.NPM1.K562"           
+ [50] "eCLIP.FAM120A.K562"         "eCLIP.GRWD1.HepG2"          "eCLIP.HNRNPC.K562"          "eCLIP.YBX3.HepG2"           "eCLIP.SUGP2.HepG2"          "eCLIP.DGCR8.HepG2"          "eCLIP.DDX52.K562"          
+ [57] "eCLIP.AKAP8L.K562"          "eCLIP.RBFOX2.K562"          "eCLIP.EIF4G2.K562"          "eCLIP.FAM120A.HepG2"        "eCLIP.SND1.K562"            "eCLIP.HNRNPU.adrenal gland" "eCLIP.PRPF4.HepG2"         
+ [64] "eCLIP.SAFB.HepG2"           "eCLIP.NSUN2.K562"           "eCLIP.SUPV3L1.K562"         "eCLIP.HNRNPU.K562"          "eCLIP.WDR43.K562"           "eCLIP.MATR3.K562"           "eCLIP.PUS1.K562"           
+ [71] "eCLIP.ZC3H11A.K562"         "eCLIP.BUD13.K562"           "eCLIP.HNRNPL.HepG2"         "eCLIP.GTF2F1.K562"          "eCLIP.ZNF622.K562"          "eCLIP.U2AF2.K562"           "eCLIP.RBM22.HepG2"         
+ [78] "eCLIP.SERBP1.K562"          "eCLIP.RPS3.HepG2"           "eCLIP.LARP7.HepG2"          "eCLIP.RPS11.K562"           "eCLIP.FXR2.K562"            "eCLIP.SRSF7.HepG2"          "eCLIP.XRN2.HepG2"          
+ [85] "eCLIP.AQR.HepG2"            "eCLIP.GRWD1.K562"           "eCLIP.XPO5.HepG2"           "eCLIP.NOLC1.K562"           "eCLIP.SSB.K562"             "eCLIP.SUB1.HepG2"           "eCLIP.LIN28B.HepG2"        
+ [92] "eCLIP.ZNF800.HepG2"         "eCLIP.CSTF2.HepG2"          "eCLIP.FTO.HepG2"            "eCLIP.UCHL5.K562"           "eCLIP.FXR1.K562"            "eCLIP.DDX21.K562"           "eCLIP.ZC3H8.K562"          
+ [99] "eCLIP.ILF3.K562"            "eCLIP.HNRNPA1.K562"         "eCLIP.DDX42.K562"           "eCLIP.WRN.K562"             "eCLIP.HLTF.K562"            "eCLIP.FASTKD2.K562"         "eCLIP.HNRNPC.HepG2"        
+[106] "eCLIP.IGF2BP1.HepG2"        "eCLIP.HNRNPM.K562"          "eCLIP.PABPC4.K562"          "eCLIP.DDX55.K562"           "eCLIP.FUBP3.HepG2"          "eCLIP.APOBEC3C.K562"        "eCLIP.FMR1.K562"           
+[113] "eCLIP.FASTKD2.HepG2"        "eCLIP.IGF2BP2.K562"         "eCLIP.RPS3.K562"            "eCLIP.LARP4.HepG2"          "eCLIP.DDX24.K562"           "eCLIP.DGCR8.adrenal gland"  "eCLIP.NIPBL.K562"          
+[120] "eCLIP.PPIL4.K562"           "eCLIP.WDR3.K562"            "eCLIP.TAF15.HepG2"          "eCLIP.UCHL5.HepG2"          "eCLIP.MATR3.HepG2"          "eCLIP.PHF6.K562"            "eCLIP.POLR2G.HepG2"        
+[127] "eCLIP.ZC3H11A.HepG2"        "eCLIP.SAFB2.K562"           "eCLIP.RBM15.K562"           "eCLIP.UPF1.K562"            "eCLIP.EWSR1.K562"           "eCLIP.SND1.HepG2"           "eCLIP.HNRNPUL1.HepG2"      
+[134] "eCLIP.TROVE2.HepG2"         "eCLIP.TIAL1.HepG2"          "eCLIP.DDX6.HepG2"           "eCLIP.TBRG4.K562"           "eCLIP.SLBP.K562"            "eCLIP.DKC1.HepG2"           "eCLIP.EIF3G.K562"          
+[141] "eCLIP.CPSF6.K562"           "eCLIP.U2AF1.K562"           "eCLIP.PCBP2.HepG2"          "eCLIP.UTP18.HepG2"          "eCLIP.METAP2.K562"          "eCLIP.SF3B4.K562"           "eCLIP.IGF2BP1.K562"        
+[148] "eCLIP.DHX30.HepG2"          "eCLIP.CPEB4.K562"           "eCLIP.GPKOW.K562"           "eCLIP.STAU2.HepG2"          "eCLIP.UPF1.HepG2"           "eCLIP.NCBP2.HepG2"          "eCLIP.XRN2.K562"           
+[155] "eCLIP.SLTM.K562"            "eCLIP.QKI.HepG2"            "eCLIP.PABPN1.HepG2"         "eCLIP.U2AF2.HepG2"          "eCLIP.TRA2A.K562"           "eCLIP.PTBP1.HepG2"          "eCLIP.NONO.K562"           
+[162] "eCLIP.SMNDC1.HepG2"         "eCLIP.YBX3.K562"            "eCLIP.AKAP1.HepG2"          "eCLIP.HNRNPM.HepG2"         "eCLIP.TIA1.HepG2"           "eCLIP.SRSF9.HepG2"          "eCLIP.TRA2A.HepG2"         
+[169] "eCLIP.KHSRP.HepG2"          "eCLIP.DDX3X.HepG2"          "eCLIP.SRSF7.K562"           "eCLIP.UTP18.K562"           "eCLIP.QKI.K562"             "eCLIP.TROVE2.K562"          "eCLIP.EFTUD2.HepG2"        
+[176] "eCLIP.DROSHA.K562"          "eCLIP.HNRNPA1.HepG2"        "eCLIP.DDX55.HepG2"          "eCLIP.DDX51.K562"           "eCLIP.LARP7.K562"           "eCLIP.BCLAF1.HepG2"         "eCLIP.AGGF1.K562"          
+[183] "eCLIP.EIF3H.HepG2"          "eCLIP.TAF15.K562"           "eCLIP.SDAD1.HepG2"          "eCLIP.SSB.HepG2"            "eCLIP.DROSHA.HepG2"         "eCLIP.HNRNPK.HepG2"         "eCLIP.EXOSC5.K562"         
+[190] "eCLIP.LSM11.K562"           "eCLIP.PRPF8.K562"           "eCLIP.FUS.K562"             "eCLIP.EXOSC5.HepG2"         "eCLIP.EFTUD2.K562"          "eCLIP.TBRG4.HepG2"          "eCLIP.RBFOX2.HepG2"        
+[197] "eCLIP.CSTF2T.K562"          "eCLIP.PUM2.K562"            "eCLIP.MTPAP.K562"           "eCLIP.NCBP2.K562"           "eCLIP.IGF2BP3.HepG2"        "eCLIP.SRSF1.K562"           "eCLIP.SF3B1.K562"          
+[204] "eCLIP.HNRNPUL1.K562"        "eCLIP.DDX59.HepG2"          "eCLIP.G3BP1.HepG2"          "eCLIP.PCBP1.K562"           "eCLIP.DDX6.K562"            "eCLIP.PTBP1.K562"           "eCLIP.NOL12.HepG2"         
+[211] "eCLIP.HNRNPL.K562"          "eCLIP.TIA1.K562"            "eCLIP.HNRNPK.K562"          "eCLIP.FTO.K562"             "eCLIP.RBM5.HepG2"           "eCLIP.GRSF1.HepG2"          "eCLIP.YWHAG.K562"          
+[218] "eCLIP.SRSF1.HepG2"          "eCLIP.ABCF1.K562"           "eCLIP.SMNDC1.K562"          "eCLIP.WDR43.HepG2"          "eCLIP.LARP4.K562"           "eCLIP.AQR.K562"             "eCLIP.SF3A3.HepG2"         
+[225] "eCLIP.SAFB.K562"            "eCLIP.AATF.K562"            "eCLIP.FKBP4.HepG2"          "eCLIP.XRCC6.K562"           "eCLIP.FUS.HepG2"            "eCLIP.RBM22.K562"           "eCLIP.LSM11.HepG2"         
+[232] "eCLIP.PPIG.HepG2"           "eCLIP.AGGF1.HepG2"          "eCLIP.XRCC6.HepG2"          "eCLIP.SUPV3L1.HepG2"       
+[1] "With Ensembl IDs + Features:  12981"
+[1] "Dimensions:  12981" "Dimensions:  235"  
+            GENEID   HALFLIFE  UTR5LEN   CDSLEN INTRONLEN
+1  ENSG00000000003  8.6609546 2.045714 2.862191  3.774013
+2  ENSG00000000457 -6.9291729 2.342620 3.345001  4.577654
+3  ENSG00000000460  0.4409086 2.843295 3.404338  4.735160
+4  ENSG00000000938 -0.9436801 2.456518 3.197584  4.311798
+5  ENSG00000000971  7.7204267 2.378580 3.564796  4.961545
+6  ENSG00000001036  8.3098107 1.741152 3.144294  4.162418
+7  ENSG00000001084 -3.7929552 2.684037 3.277632  4.643414
+8  ENSG00000001167 -6.4981408 2.299071 3.013722  4.366145
+9  ENSG00000001460 -3.5762115 2.403292 2.997430  4.742789
+10 ENSG00000001461  0.2905773 2.563600 3.081743  4.714490
+null device 
+          1 
+     lambda.min
+[1,]   0.506354
+     lambda.min
+[1,]  0.5069453
+           ORFEXONDENSITY           eCLIP.YBX3.K562         eCLIP.LARP4.HepG2          eCLIP.SUB1.HepG2          eCLIP.RBM15.K562           eCLIP.PUM2.K562                   UTR3LEN          eCLIP.DDX3X.K562         eCLIP.DDX3X.HepG2 
+             4.253966e-01              1.064058e-01              1.020444e-01              9.925299e-02             -9.417625e-02             -8.674949e-02             -7.993211e-02              7.393617e-02              7.281741e-02 
+                   UTR3GC         eCLIP.PABPC4.K562          eCLIP.PPIG.HepG2         eCLIP.RBM15.HepG2          eCLIP.SND1.HepG2         eCLIP.G3BP1.HepG2         eCLIP.PRPF8.HepG2         eCLIP.BUD13.HepG2           eCLIP.AQR.HepG2 
+             6.841793e-02              6.803349e-02              5.871291e-02             -5.229553e-02              5.228690e-02              5.036835e-02             -4.264020e-02             -4.070509e-02             -3.970259e-02 
+        eCLIP.RBFOX2.K562          eCLIP.DDX24.K562           eCLIP.SND1.K562        eCLIP.HNRNPM.HepG2         eCLIP.TARDBP.K562           eCLIP.UPF1.K562           eCLIP.DDX6.K562        eCLIP.FAM120A.K562         eCLIP.EFTUD2.K562 
+             3.828209e-02              3.715343e-02              3.107038e-02             -2.951876e-02             -2.944962e-02             -2.768836e-02             -2.764612e-02              2.612060e-02             -2.606401e-02 
+                    CDSGC         eCLIP.HNRNPK.K562          eCLIP.GPKOW.K562            eCLIP.AQR.K562        eCLIP.ZNF800.HepG2       eCLIP.APOBEC3C.K562        eCLIP.LIN28B.HepG2        eCLIP.IGF2BP1.K562        eCLIP.PABPN1.HepG2 
+             2.582360e-02              2.566414e-02             -2.521041e-02             -2.511880e-02              2.402384e-02              2.202762e-02              2.172881e-02              2.135908e-02              2.115282e-02 
+        eCLIP.FUBP3.HepG2          eCLIP.KHSRP.K562         eCLIP.LSM11.HepG2          eCLIP.PRPF8.K562          eCLIP.DDX6.HepG2         eCLIP.SF3A3.HepG2          eCLIP.TRA2A.K562        eCLIP.CSTF2T.HepG2                    UTR5GC 
+            -2.108436e-02             -2.074344e-02              2.062964e-02             -1.993369e-02             -1.740104e-02              1.710926e-02              1.661477e-02             -1.648703e-02              1.616385e-02 
+         eCLIP.SFPQ.HepG2         eCLIP.EIF3D.HepG2                   UTR5LEN       eCLIP.IGF2BP3.HepG2         eCLIP.PRPF4.HepG2           eCLIP.SLBP.K562          eCLIP.PCBP1.K562         eCLIP.ZNF800.K562         eCLIP.DDX55.HepG2 
+            -1.604346e-02             -1.594293e-02             -1.501512e-02              1.318209e-02              1.304810e-02             -1.219559e-02              1.212446e-02              1.128508e-02             -1.099921e-02 
+        eCLIP.DHX30.HepG2         eCLIP.NCBP2.HepG2        eCLIP.RBFOX2.HepG2                 INTRONLEN           eCLIP.FXR1.K562         eCLIP.EXOSC5.K562         eCLIP.AKAP1.HepG2         eCLIP.UCHL5.HepG2          eCLIP.WDR43.K562 
+             1.062184e-02             -1.056000e-02              1.041978e-02             -1.036111e-02             -1.033589e-02              1.024372e-02             -1.010084e-02              1.000623e-02              9.943475e-03 
+          eCLIP.NONO.K562        eCLIP.EXOSC5.HepG2          eCLIP.DKC1.HepG2         eCLIP.METAP2.K562          eCLIP.HLTF.HepG2          eCLIP.SRSF1.K562          eCLIP.CPEB4.K562         eCLIP.WDR43.HepG2         eCLIP.KHSRP.HepG2 
+            -9.423539e-03              9.310244e-03             -9.056145e-03              8.955762e-03              8.489044e-03              7.711610e-03             -7.647539e-03             -7.611072e-03              7.470313e-03 
+         eCLIP.NCBP2.K562       eCLIP.HNRNPUL1.K562         eCLIP.FKBP4.HepG2         eCLIP.LIN28B.K562          eCLIP.UTP18.K562          eCLIP.DDX51.K562         eCLIP.DGCR8.HepG2            eCLIP.QKI.K562          eCLIP.CPSF6.K562 
+             7.463376e-03             -6.869189e-03              6.787834e-03              6.092945e-03              6.083220e-03              5.867350e-03              5.687535e-03              5.563405e-03              5.489797e-03 
+       eCLIP.TROVE2.HepG2         eCLIP.CDC40.HepG2         eCLIP.PCBP1.HepG2          eCLIP.XPO5.HepG2           eCLIP.FMR1.K562        eCLIP.DROSHA.HepG2         eCLIP.CSTF2T.K562          eCLIP.TAF15.K562        eCLIP.IGF2BP2.K562 
+             5.327809e-03             -4.978951e-03              4.621395e-03             -4.612886e-03             -4.568457e-03              4.463168e-03             -4.278366e-03              4.212104e-03              4.210209e-03 
+         eCLIP.NKRF.HepG2         eCLIP.ZNF622.K562          eCLIP.EIF3G.K562           eCLIP.NPM1.K562           eCLIP.HLTF.K562          eCLIP.XRCC6.K562          eCLIP.SAFB.HepG2       eCLIP.ZC3H11A.HepG2          eCLIP.MTPAP.K562 
+            -3.867299e-03             -3.834351e-03              3.766191e-03             -3.446928e-03              3.381880e-03              3.269311e-03              3.228560e-03              3.151507e-03              2.922804e-03 
+        eCLIP.TIAL1.HepG2        eCLIP.HNRNPU.HepG2          eCLIP.NIPBL.K562         eCLIP.HNRNPM.K562           eCLIP.SLTM.K562 eCLIP.DGCR8.adrenal gland           eCLIP.PHF6.K562         eCLIP.PTBP1.HepG2          eCLIP.SAFB2.K562 
+             2.867228e-03             -2.614058e-03              2.602838e-03             -2.492196e-03              2.366650e-03              2.305870e-03             -2.259316e-03             -2.171964e-03              2.159503e-03 
+          eCLIP.PUS1.K562       eCLIP.SUPV3L1.HepG2          eCLIP.RBM22.K562          eCLIP.MATR3.K562          eCLIP.NSUN2.K562          eCLIP.LSM11.K562            eCLIP.FTO.K562         eCLIP.AKAP8L.K562         eCLIP.HNRNPL.K562 
+            -2.158622e-03             -2.083405e-03             -1.986193e-03              1.709255e-03              1.544575e-03             -1.499245e-03             -1.413132e-03              1.398668e-03              1.378005e-03 
+        eCLIP.SRSF1.HepG2         eCLIP.SDAD1.HepG2          eCLIP.UCHL5.K562           eCLIP.WDR3.K562        eCLIP.BCLAF1.HepG2          eCLIP.RBM5.HepG2          eCLIP.SLTM.HepG2         eCLIP.UTP18.HepG2         eCLIP.GRSF1.HepG2 
+             1.302998e-03             -1.235968e-03              1.199172e-03              1.180490e-03              1.173964e-03              1.124586e-03              1.088261e-03             -9.078943e-04              6.393582e-04 
+        eCLIP.SRSF9.HepG2        eCLIP.SMNDC1.HepG2         eCLIP.SF3B4.HepG2         eCLIP.DDX52.HepG2          eCLIP.NIP7.HepG2          eCLIP.LARP4.K562          eCLIP.DDX42.K562               (Intercept) 
+             6.087225e-04             -5.265375e-04              4.194356e-04              3.302050e-04              1.752206e-04             -3.702638e-05              3.264991e-05              3.591230e-18 
+[1] 134
+null device 
+          1 
+[1] "0.713613634668681"
+[1] "0.717805363390052"
+[1] "0.713929508906454"
+[1] "0.69579612503012"
+[1] "0.687443673169866"
+[1] "0.705977363417383"
+[1] "0.710649696639885"
+[1] "0.711450212879198"
+[1] "0.698246272994088"
+[1] "0.698055035182766"
+          [,1]
+[1,] 0.4960141
+          [,1]
+[1,] 0.4966858
+null device 
+          1 

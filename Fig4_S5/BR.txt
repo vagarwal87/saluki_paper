@@ -1,0 +1,46 @@
+ [1] "GENEID"                     "HALFLIFE"                   "UTR5LEN"                    "CDSLEN"                     "INTRONLEN"                  "UTR3LEN"                    "UTR5GC"                     "CDSGC"                     
+ [9] "UTR3GC"                     "ORFEXONDENSITY"             "RIP.eIF4E.Rissland"         "RIP.eIF4G.Rissland"         "RIP.PABP.Rissland"          "RIP.YTHDF2.polyA.He"        "RIP.YTHDF2.RiboMinusRIP.He" "TE.He"                     
+[17] "RIP.YTHDF1_polyA_He"        "RIP.YTHDF1_RiboMinus_He"    "RIP.YTHDF3_polyA_He"        "RIP.YTHDF3_RiboMinus_He"    "RIP.ADAR"                   "RIP.CTCF"                   "RIP.DNMT1"                  "RIP.HNRNPH"                
+[25] "RIP.HNRNPU"                 "RIP.HDAC1"                  "RIP.CBX"                    "RIP.IMP1"                   "RIP.CHD4"                   "RIP.EZH2"                   "RIP.CBP"                    "RIP.CHD1"                  
+[33] "RIP.HUR"                    "RIP.CHD7"                   "RIP.SUZ12"                  "RIP.LSD1"                   "RIP.PCBX"                   "RIP.STAG2"                  "RIP.PHF8"                   "RIP.PCAF"                  
+[41] "RIP.WDR5"                   "RIP.RBBP5"                  "RIP.NUP98"                  "RIP.PABP"                  
+[1] "With Ensembl IDs + Features:  12981"
+[1] "Dimensions:  12981" "Dimensions:  44"   
+            GENEID   HALFLIFE  UTR5LEN   CDSLEN INTRONLEN
+1  ENSG00000000003  8.6609546 2.045714 2.862191  3.774013
+2  ENSG00000000457 -6.9291729 2.342620 3.345001  4.577654
+3  ENSG00000000460  0.4409086 2.843295 3.404338  4.735160
+4  ENSG00000000938 -0.9436801 2.456518 3.197584  4.311798
+5  ENSG00000000971  7.7204267 2.378580 3.564796  4.961545
+6  ENSG00000001036  8.3098107 1.741152 3.144294  4.162418
+7  ENSG00000001084 -3.7929552 2.684037 3.277632  4.643414
+8  ENSG00000001167 -6.4981408 2.299071 3.013722  4.366145
+9  ENSG00000001460 -3.5762115 2.403292 2.997430  4.742789
+10 ENSG00000001461  0.2905773 2.563600 3.081743  4.714490
+null device 
+          1 
+     lambda.min
+[1,]  0.4668566
+     lambda.min
+[1,]  0.4657254
+RIP.YTHDF2.polyA.He      ORFEXONDENSITY            RIP.WDR5            RIP.PABP            RIP.PHF8              UTR3GC   RIP.PABP.Rissland  RIP.eIF4G.Rissland              UTR5GC             UTR3LEN         (Intercept) 
+      -4.193299e-01        2.923197e-01       -1.249393e-01        1.051108e-01       -9.589429e-02        5.750361e-02        2.795540e-02        1.656090e-02        1.092990e-02       -7.060682e-03        5.266950e-16 
+[1] 11
+null device 
+          1 
+[1] "0.667225872251296"
+[1] "0.693582336011411"
+[1] "0.699844112626869"
+[1] "0.679153407074591"
+[1] "0.693213089376909"
+[1] "0.693131669673385"
+[1] "0.678279280443096"
+[1] "0.498677270580426"
+[1] "0.678328311317532"
+[1] "0.657963532794291"
+          [,1]
+[1,] 0.4654677
+          [,1]
+[1,] 0.4276622
+null device 
+          1 

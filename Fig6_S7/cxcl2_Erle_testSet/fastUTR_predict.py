@@ -1,0 +1,53 @@
+import os, sys
+import argparse, json, h5py, time
+import numpy as np
+import tensorflow as tf
+from basenji import dataset
+from basenji import dna_io
+import pandas as pd
+try:
+  import rnann
+except:
+  from basenji import rnann
+
+if tf.__version__[0] == '1':
+  tf.compat.v1.enable_eager_execution()
+
+MAXLEN = 12288
+
+##########
+# inputs #
+##########
+parser = argparse.ArgumentParser(description='In silico MPRA experiment')
+parser.add_argument(dest='pfile', help='params file')
+parser.add_argument(dest='mfile', help='model file')
+args = parser.parse_args()
+
+params_file = args.pfile
+model_file = args.mfile
+
+# read model parameters
+with open(params_file) as params_open:
+    params = json.load(params_open)
+params_model = params['model']
+params_train = params['train']
+
+# initialize model
+seqnn_model = rnann.RnaNN(params_model)
+seqnn_model.restore(model_file)
+
+construct = pd.read_table("BTV_construct.txt", index_col=0, header=None).values
+aa_len = int(len(construct[1][0])/3)
+coding = np.append(np.zeros(len(construct[0][0])), np.tile([1,0,0], aa_len))
+
+reporter = construct[0]+construct[1]+construct[2]
+seq = pd.read_table("fastUTR_mpra.txt", header=None)[[0]][0].values
+
+print('%s\t%s' % ("seq", "pred"))
+for i in seq: # iterate through all sequences
+    batch = np.zeros((1,MAXLEN,6))
+    myseq = (reporter+i+construct[3])[0]
+    batch[0,0:len(myseq),0:4] = dna_io.dna_1hot(myseq)
+    batch[0,0:len(coding),4] = coding
+    pred = seqnn_model.predict(batch)
+    print('%s\t%s' % (i, pred[0][0]))

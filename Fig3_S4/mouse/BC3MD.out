@@ -1,0 +1,130 @@
+[1] "with miRNA features"
+[1] "with DeepRiPe features"
+[1] "With Ensembl IDs + Features:  13744"
+[1] "Dimensions:  13744" "Dimensions:  22410"
+               GENEID   HALFLIFE  UTR5LEN   CDSLEN INTRONLEN
+1  ENSMUSG00000000001  0.8801540 2.146438 3.022882  4.551671
+2  ENSMUSG00000000028 -1.5803817 2.492900 3.225335  4.468452
+3  ENSMUSG00000000037  5.2434712 2.324488 3.459709  4.949781
+4  ENSMUSG00000000056 -1.4584127 1.851870 3.138334  4.153025
+5  ENSMUSG00000000058  1.3303881 2.243286 2.684037  3.716429
+6  ENSMUSG00000000078 -9.7325453 2.193403 2.977769  3.671737
+7  ENSMUSG00000000085 -3.6135672 2.217747 3.323066  4.905662
+8  ENSMUSG00000000088  5.5837170 1.682145 2.637590  4.021689
+9  ENSMUSG00000000093 -2.6568000 2.744371 3.327584  3.762161
+10 ENSMUSG00000000094 -0.4303181 2.152594 3.216984  4.423804
+null device 
+          1 
+     lambda.min
+[1,]  0.4207628
+     lambda.min
+[1,]  0.4172758
+       ORFEXONDENSITY DeepRiPeFMR1iso1.3UTR               UTR3LEN             Codon.TTA             Codon.AGT             Codon.AGC  DeepRiPeIGF2BP3.3UTR             Codon.ATC             Codon.TGT     DeepRiPePUM2.3UTR 
+         3.182106e-01         -8.185525e-02         -6.031920e-02         -5.626638e-02         -5.114594e-02         -4.986757e-02          4.792700e-02          4.774494e-02         -4.694159e-02         -4.577515e-02 
+            Codon.CAT             Codon.CGG             Codon.TCA             Codon.ATG             Codon.CAC             Codon.TCG             Codon.AGG    DeepRiPeELAVL1.ORF               UTR5LEN           3UTR.TATTTA 
+        -4.574704e-02         -4.500803e-02         -3.964122e-02          3.618962e-02         -3.510529e-02         -3.359219e-02         -3.316001e-02          3.315349e-02         -2.915664e-02         -2.784189e-02 
+            Codon.CAG     DeepRiPeFXR2.3UTR             Codon.AGA             Codon.ACG    DeepRiPeCSTF2T.ORF    MIR.mmu-miR-27a-3p             Codon.CCG             Codon.AAA             Codon.GAT             Codon.ATT 
+        -2.780855e-02         -2.737604e-02         -2.664512e-02         -2.571192e-02          2.505576e-02         -2.503409e-02         -2.493437e-02         -2.484896e-02          2.405344e-02          2.381685e-02 
+DeepRiPeFMR1iso7.3UTR    MIR.mmu-miR-19a-3p     MIR.mmu-let-7d-5p    MIR.mmu-miR-539-3p    MIR.mmu-miR-493-5p   MIR.mmu-miR-106a-5p DeepRiPeFMR1iso7.5UTR  DeepRiPeIGF2BP3.5UTR             Codon.GTG          3UTR.TGTAAAT 
+        -2.142644e-02         -2.131863e-02         -2.055090e-02         -2.049056e-02         -1.969162e-02         -1.884435e-02         -1.881885e-02          1.829609e-02          1.789915e-02         -1.772258e-02 
+            Codon.GGA   DeepRiPeHNRNPD.3UTR             Codon.CGA             Codon.GGT    MIR.mmu-miR-29a-3p     DeepRiPeDND1.3UTR           3UTR.TGTAAA MIR.mmu-miR-101a-3p.1             Codon.CTG             3UTR.GTTG 
+         1.723212e-02          1.672886e-02         -1.672168e-02          1.668765e-02         -1.541790e-02          1.534427e-02         -1.468866e-02         -1.433298e-02          1.398893e-02         -1.398007e-02 
+          3UTR.GCACTT          3UTR.CGATATC          3UTR.TTTGTTT          3UTR.TATTTAT           3UTR.GCATGC     DeepRiPeFXR1.3UTR            3UTR.TTTTA    MIR.mmu-miR-322-5p             Codon.GCT     MIR.mmu-miR-22-3p 
+        -1.389417e-02          1.364776e-02         -1.361007e-02         -1.355326e-02          1.327401e-02          1.324236e-02         -1.299420e-02         -1.282102e-02          1.249622e-02         -1.248626e-02 
+         3UTR.CATGGTT          3UTR.TGTACAT   MIR.mmu-miR-106b-5p     DeepRiPeSRRM4.ORF             Codon.GTC          3UTR.GCTGCTA    MIR.mmu-miR-351-5p          3UTR.TTTGGTT   MIR.mmu-miR-291a-3p          3UTR.TGTATAT 
+         1.244134e-02         -1.183614e-02         -1.167655e-02          1.160860e-02          1.117979e-02         -1.112719e-02         -1.098804e-02         -1.095145e-02         -1.057977e-02         -1.057007e-02 
+   MIR.mmu-miR-30b-5p    MIR.mmu-miR-665-3p             3UTR.GACT          3UTR.GAACTCA             3UTR.TAGA          3UTR.GCCAAGA          3UTR.GTACATA    MIR.mmu-miR-543-3p   MIR.mmu-miR-200b-3p           3UTR.TCGTCA 
+        -1.052366e-02         -1.049897e-02         -1.048842e-02         -1.006825e-02          9.807868e-03         -9.584829e-03         -9.545214e-03         -9.481275e-03         -9.374088e-03         -9.287345e-03 
+            Codon.TTC             Codon.GCC      DeepRiPeFXR2.ORF          3UTR.TGTACAG          3UTR.TATATAT             Codon.TAA    MIR.mmu-miR-137-3p   MIR.mmu-miR-148a-3p            3UTR.CATGC              3UTR.TTT 
+         9.257498e-03          9.234182e-03         -8.967521e-03         -8.800586e-03         -8.752209e-03          8.577118e-03         -8.514355e-03         -8.468283e-03          8.413912e-03         -8.339482e-03 
+            Codon.TGG             3UTR.ACTT          3UTR.GAACGCT          3UTR.CCGCAAG       DeepRiPeSSB.ORF    MIR.mmu-miR-15a-5p          3UTR.AGGGATA          3UTR.GCGGCGA  MIR.mmu-miR-124-3p.1    DeepRiPeSRRM4.3UTR 
+         8.299333e-03         -8.264582e-03         -8.155626e-03         -8.083083e-03          7.841964e-03         -7.808644e-03         -7.803281e-03          7.723310e-03         -7.708543e-03          7.540845e-03 
+   MIR.mmu-miR-155-5p   MIR.mmu-miR-302a-3p             Codon.TTG          3UTR.GCTGGAC          3UTR.CCACATC     MIR.mmu-miR-24-3p          3UTR.TGACCGG           3UTR.TGTATA          3UTR.GAAAACC    MIR.mmu-miR-149-5p 
+        -7.499118e-03         -7.359249e-03         -7.354723e-03         -7.229876e-03          7.195847e-03         -7.194888e-03          7.137883e-03         -7.023278e-03          7.022126e-03         -6.966443e-03 
+         3UTR.GGTAGGC           3UTR.TTATTT          3UTR.TAATTTA          3UTR.GAAATCC    MIR.mmu-miR-384-5p           3UTR.CATGCC          3UTR.TTATGGG          3UTR.CAATGAT          3UTR.AGGTTTA    DeepRiPeMBNL1.3UTR 
+        -6.920229e-03         -6.912426e-03         -6.848817e-03         -6.794165e-03         -6.699437e-03          6.620088e-03          6.565688e-03          6.508000e-03          6.474411e-03          6.197429e-03 
+            Codon.GGC    MIR.mmu-miR-144-3p          3UTR.GAGGGCT    MIR.mmu-miR-10a-5p          3UTR.TACGTGA            3UTR.TATCT     MIR.mmu-miR-31-5p    MIR.mmu-miR-410-3p     DeepRiPeCPSF1.ORF           3UTR.AGCGAG 
+         6.142724e-03         -6.053314e-03         -6.014755e-03         -5.960584e-03          5.892415e-03          5.879343e-03         -5.818037e-03         -5.817177e-03          5.806324e-03         -5.752179e-03 
+         3UTR.TGCCAAG          3UTR.GTGTTCC           3UTR.TGCATG DeepRiPeP53_NONO.3UTR           3UTR.GACCGA          3UTR.GCTACTA          3UTR.TGCTTTA          3UTR.ATAGGAC   DeepRiPeCAPRIN1.ORF     MIR.mmu-miR-1a-3p 
+        -5.746105e-03          5.713208e-03          5.710950e-03          5.646531e-03         -5.632152e-03          5.614165e-03          5.600614e-03          5.565871e-03          5.536115e-03         -5.523732e-03 
+         3UTR.CCCCTGC   MIR.mmu-miR-145a-5p          3UTR.CAAAAGG   MIR.mmu-miR-125b-5p          3UTR.TGTTTGT          3UTR.GCGACGG           3UTR.GGTGAG   MIR.mmu-miR-302c-3p          3UTR.AAGCTGT          3UTR.ATCCACC 
+         5.434446e-03         -5.371580e-03         -5.364679e-03         -5.307145e-03         -5.286024e-03          5.252480e-03         -5.094350e-03         -5.081921e-03         -5.015059e-03          5.000031e-03 
+         3UTR.TAGATCG            3UTR.AATAA           3UTR.TGCAAA          3UTR.GCAGTAA          3UTR.GACGACT           3UTR.AAAGGA           3UTR.CGGGGA          3UTR.CGACGGA          3UTR.ACAAACT            3UTR.GTATA 
+         4.939480e-03          4.908758e-03         -4.892295e-03          4.862641e-03          4.855490e-03         -4.837726e-03         -4.825521e-03          4.752270e-03         -4.725979e-03         -4.689625e-03 
+          3UTR.TGGACT           3UTR.CTCAGG          3UTR.TGTGAGC          3UTR.TTGAGGC          3UTR.TCCCAGC          3UTR.AGCCTTG             Codon.ACC          3UTR.CTCTCGC          3UTR.GAGGGAG           3UTR.GAACTT 
+        -4.656363e-03         -4.628191e-03          4.606605e-03         -4.588718e-03          4.582795e-03          4.576337e-03          4.560255e-03          4.462395e-03          4.425126e-03         -4.421880e-03 
+         3UTR.TGGACTT           3UTR.TCTCTA          3UTR.CGACTTC    MIR.mmu-miR-194-5p    MIR.mmu-miR-26a-5p             Codon.TCC    MIR.mmu-miR-182-5p           3UTR.AAAAAC     MIR.mmu-miR-96-5p   MIR.mmu-miR-290a-5p 
+        -4.362153e-03          4.303478e-03          4.273921e-03         -4.266427e-03         -4.243799e-03         -4.194546e-03         -4.119230e-03         -4.106311e-03         -4.040453e-03          4.023454e-03 
+           3UTR.CCTGT          3UTR.CATCAGC             Codon.TAT           3UTR.CTAGGG          3UTR.CGCGTGG          3UTR.CCAACAG   MIR.mmu-miR-374b-5p           3UTR.GACACA   MIR.mmu-miR-142a-5p           3UTR.TGTTCC 
+         3.980665e-03          3.959008e-03          3.951049e-03          3.941934e-03         -3.940654e-03         -3.926687e-03         -3.908721e-03          3.889340e-03         -3.881861e-03          3.879356e-03 
+MIR.mmu-miR-101a-3p.2          3UTR.GATTATA      DeepRiPeXPO5.ORF           3UTR.CAGGTG          3UTR.ACTTATC             3UTR.ATCA          3UTR.AGGAAAC          3UTR.TGATTAG          3UTR.TCGTCAG          3UTR.TACGGGC 
+        -3.865758e-03          3.814747e-03         -3.804475e-03         -3.757405e-03          3.752448e-03          3.743099e-03         -3.728147e-03          3.723617e-03         -3.660743e-03         -3.653455e-03 
+         3UTR.AAAAATA           3UTR.ACAGAT           3UTR.GACTTG          3UTR.TCGCATA          3UTR.GTATTAC           3UTR.GACCCA          3UTR.TCCCGTT          3UTR.TCATCGT     DeepRiPeFXR2.5UTR          3UTR.GCAAAGC 
+         3.652079e-03         -3.644369e-03         -3.610872e-03          3.607662e-03          3.579524e-03         -3.533683e-03         -3.526224e-03         -3.482377e-03         -3.458416e-03         -3.443686e-03 
+   MIR.mmu-miR-132-3p          3UTR.TACACGA     MIR.mmu-miR-7a-5p          3UTR.GGCTTCA   MIR.mmu-miR-299a-5p          3UTR.GTCAAGT    MIR.mmu-miR-346-5p          3UTR.GCCTGTC          3UTR.CTGTTGC   DeepRiPeELAVL3.5UTR 
+        -3.422252e-03         -3.420615e-03         -3.413060e-03         -3.390231e-03         -3.370594e-03          3.353957e-03         -3.273475e-03          3.265816e-03         -3.263048e-03         -3.245650e-03 
+          3UTR.GAAGGA          3UTR.TGAACGC          3UTR.TGGGCGT MIR.mmu-miR-142a-3p.2           3UTR.GGTGCT          3UTR.CAGGTTC          3UTR.AGCTTTT          3UTR.CTGGAGC            3UTR.CGATG          3UTR.ATGTATA 
+         3.242984e-03          3.221052e-03         -3.198283e-03         -3.160171e-03         -3.140699e-03          3.133134e-03         -3.103779e-03          3.092189e-03          3.091278e-03         -3.084509e-03 
+         3UTR.GAAGAAG               3UTR.TC          3UTR.TCCGTCC          3UTR.ATCACTA             Codon.CTT             3UTR.TACG          3UTR.GAGACTC    MIR.mmu-miR-214-5p          3UTR.GATCGAG          3UTR.AAAGCAA 
+         3.054587e-03          3.050127e-03         -3.045770e-03          3.003171e-03         -3.002830e-03         -2.987177e-03         -2.981724e-03         -2.882361e-03         -2.815123e-03          2.699421e-03 
+         3UTR.ACGCCGG           3UTR.TTTTTT          3UTR.TATTTTT              3UTR.TTG          3UTR.TCACCCT          3UTR.ACTGGGC          3UTR.TAGTGCC            3UTR.CCCCA   MIR.mmu-miR-450a-5p          3UTR.TGCTGGA 
+        -2.664136e-03         -2.662067e-03         -2.659435e-03         -2.651695e-03          2.634830e-03         -2.594787e-03          2.572088e-03          2.568648e-03         -2.512114e-03          2.486811e-03 
+         3UTR.CGAGGGC    MIR.mmu-miR-23a-3p   DeepRiPeCSTF2T.3UTR          3UTR.CTAGGGG          3UTR.GTGTTTC          3UTR.CGGTAGC           3UTR.AGCGAA             3UTR.GTGT            3UTR.GGTGA          3UTR.CACAGGC 
+        -2.433724e-03         -2.430636e-03          2.405006e-03          2.403213e-03         -2.401735e-03          2.381459e-03          2.376829e-03         -2.325726e-03         -2.237547e-03          2.236294e-03 
+   DeepRiPeMOV10.5UTR          3UTR.ATCGCCT          3UTR.TTTGGGA          3UTR.TAGACAA          3UTR.TGGCGTA            3UTR.TGAGG          3UTR.ATACCCG    MIR.mmu-miR-760-3p          3UTR.CTGATAT            3UTR.CTCCC 
+         2.227175e-03          2.206283e-03         -2.186121e-03          2.183751e-03         -2.181893e-03         -2.114389e-03          2.095782e-03         -2.078013e-03         -2.075488e-03          2.055901e-03 
+         3UTR.TACTATA           3UTR.ACTGTT          3UTR.CTAGGTC    DeepRiPeZFP36.3UTR          3UTR.GGTCCGA          3UTR.AAATAAA          3UTR.TCATTTT          3UTR.CCTCAGA          3UTR.CCTGTCC          3UTR.CAGGTGG 
+         2.053422e-03         -2.028671e-03          2.004041e-03         -2.001343e-03          1.989596e-03          1.972739e-03          1.960932e-03          1.948603e-03          1.943713e-03         -1.941691e-03 
+    DeepRiPeAGO2.3UTR          3UTR.ATGCTAA          3UTR.TCGGAAT          3UTR.GCCGTCA          3UTR.AAGCAAC          3UTR.TTAGTGA          3UTR.GTTTGTT          3UTR.CGTATAG          3UTR.GATAGTC             3UTR.ATTA 
+        -1.934088e-03          1.911956e-03          1.862508e-03         -1.849701e-03          1.849313e-03          1.847905e-03         -1.839645e-03         -1.839498e-03          1.822927e-03          1.785230e-03 
+         3UTR.CTCTTCC          3UTR.CTTATTT          3UTR.ACTAGGC            3UTR.TATTT    MIR.mmu-miR-103-3p           3UTR.GGGATA          3UTR.ATCATTC          3UTR.CAGCTGA          3UTR.TCCGGTA          3UTR.CGGAGTC 
+        -1.773377e-03         -1.742611e-03         -1.738496e-03         -1.732535e-03         -1.681743e-03         -1.677708e-03          1.671771e-03          1.662289e-03          1.654899e-03         -1.617963e-03 
+         3UTR.CATCTCG          3UTR.GCATTTA          3UTR.AGATGCT          3UTR.TCCCGCG          3UTR.TTAGGCT           3UTR.CGCCTA           3UTR.CTCGTG           3UTR.TTCACC          3UTR.TAACATT          3UTR.ATTGCAT 
+         1.615733e-03          1.600263e-03         -1.598829e-03          1.548259e-03          1.529953e-03          1.512803e-03          1.506943e-03          1.487362e-03          1.473901e-03          1.470855e-03 
+          3UTR.GTTCGT          3UTR.AGGGCCC          3UTR.AGTATTA          3UTR.AGTGCGG          3UTR.TGAGAGA          3UTR.ACTACCC          3UTR.GGGGTAA            3UTR.TCATT          3UTR.TTCAGTA     DeepRiPeL1RE1.ORF 
+        -1.469158e-03         -1.466580e-03          1.459690e-03         -1.412708e-03         -1.407453e-03         -1.406883e-03         -1.389889e-03          1.387102e-03         -1.383295e-03          1.376728e-03 
+         3UTR.TAACCAA          3UTR.TTGCATG          3UTR.TGTATAG MIR.mmu-miR-101b-3p.1          3UTR.AGGGAGG          3UTR.CGCGGCT          3UTR.AAACCAA          3UTR.GCCGGCA          3UTR.CCTCAGG          3UTR.GACCTGC 
+         1.358250e-03          1.341737e-03         -1.337223e-03         -1.302603e-03          1.298985e-03          1.292374e-03         -1.267265e-03         -1.236164e-03         -1.234329e-03          1.229689e-03 
+          3UTR.TTTTAT          3UTR.TATGAGA           3UTR.ATGCTC          3UTR.TTAGCCG           3UTR.TGGCGT          3UTR.ATTCGAG           3UTR.AGCTTC           3UTR.TTTAAA          3UTR.TCAATCC          3UTR.TTCACTG 
+        -1.222745e-03         -1.213931e-03          1.209000e-03         -1.203827e-03         -1.203245e-03         -1.201552e-03          1.186979e-03         -1.183771e-03          1.166965e-03         -1.164055e-03 
+         3UTR.GACACTG          3UTR.AATATTA          3UTR.TAATGTC            3UTR.TAATC          3UTR.CACCAAA    MIR.mmu-miR-503-5p          3UTR.CGAGAGT          3UTR.GCGAGGC          3UTR.CAATGTC          3UTR.AGCGGTA 
+        -1.159030e-03          1.149787e-03         -1.143907e-03          1.142763e-03          1.135810e-03         -1.131396e-03          1.123631e-03          1.121214e-03          1.110596e-03         -1.093019e-03 
+         3UTR.CACTCAA           3UTR.TGCTGC           3UTR.GTTTGT  MIR.mmu-miR-124-3p.2          3UTR.ACGATGG          3UTR.TTTAAAG          3UTR.TCCGTAT          3UTR.GAGTCGA          3UTR.GCGATGC             3UTR.TATA 
+         1.083635e-03         -1.064131e-03         -1.063119e-03         -1.045556e-03          1.023845e-03         -1.009907e-03          9.879568e-04          9.840904e-04          9.669016e-04         -9.571175e-04 
+          3UTR.CATTAC           3UTR.CATTTA           3UTR.ATTTAT   MIR.mmu-miR-301a-3p          3UTR.CTAGTCC          3UTR.TATGAAG          3UTR.AGACGGT    DeepRiPeFIP1L1.ORF    MIR.mmu-miR-143-3p          3UTR.CCCGGAC 
+         9.498534e-04          9.397069e-04         -9.299328e-04         -9.273867e-04          9.086983e-04         -9.002182e-04         -8.916272e-04          8.765748e-04         -8.274956e-04          8.187508e-04 
+         3UTR.CCTGCAA          3UTR.GGACGCC          3UTR.CTTCCAG          3UTR.TTGTTGT          3UTR.ATTTATG          3UTR.CAGGGCC           3UTR.GAATCT          3UTR.TCACTGC          3UTR.TCTTTAT          3UTR.CGCCAAG 
+         8.185342e-04         -8.006841e-04          7.826110e-04         -7.708447e-04         -7.636544e-04         -7.565643e-04         -7.512064e-04         -7.277509e-04          7.212790e-04         -7.097868e-04 
+         3UTR.GCCGCCA          3UTR.ACTGTTT    DeepRiPeRBM20.5UTR    MIR.mmu-miR-223-3p          3UTR.TCATTGT          3UTR.CACACTG          3UTR.CTATGCC          3UTR.CAGGTGA          3UTR.AAATCAA          3UTR.TCTGAAG 
+        -6.940225e-04         -6.912069e-04          6.856794e-04         -6.656013e-04          6.529474e-04          6.438998e-04         -6.355870e-04         -6.351943e-04         -6.300209e-04          6.161647e-04 
+   MIR.mmu-miR-423-5p          3UTR.CCCGGCT          3UTR.GAACTCC          3UTR.TAATCAC          3UTR.CACAAAA          3UTR.TGCTAAA          3UTR.ATGACAA          3UTR.ATGCTCA          3UTR.ACATACG          3UTR.CTGTCCA 
+        -6.065882e-04         -5.937467e-04          5.837241e-04          5.696216e-04         -5.668815e-04          5.658580e-04          5.559681e-04          5.455156e-04         -5.161070e-04          5.142094e-04 
+         3UTR.CACGCCA          3UTR.TAGGTGG          3UTR.ACGTCTT   MIR.mmu-miR-130b-3p           3UTR.TCTTGG           3UTR.CACCTG    MIR.mmu-miR-100-5p          3UTR.AGGAAGG          3UTR.GCAAATT            3UTR.TGATC 
+        -5.117602e-04          5.116945e-04         -4.799955e-04         -4.749940e-04         -4.465759e-04          4.364712e-04         -4.244944e-04          4.089223e-04          3.970589e-04          3.846847e-04 
+         3UTR.CTGGTCT  MIR.mmu-miR-505-3p.2           3UTR.GGCTCT          3UTR.TCTAAAG          3UTR.GAACCAA          3UTR.AGGAACC           3UTR.TAGAAT            3UTR.AGCAA    MIR.mmu-miR-329-3p          3UTR.TCCGGCG 
+        -3.743930e-04         -3.670941e-04         -3.664520e-04         -3.555816e-04         -3.482283e-04         -3.340593e-04          3.337498e-04          3.324207e-04         -3.196470e-04          3.049408e-04 
+         3UTR.ATCTATG          3UTR.TTCTGCC           3UTR.GATAAG          3UTR.TAGATCC           3UTR.CATTTG          3UTR.TGCGATC           3UTR.ACCTGC            3UTR.ACACC          3UTR.AAGAGCA          3UTR.GCTGAAC 
+         2.993238e-04          2.933189e-04         -2.876145e-04         -2.626296e-04         -2.460486e-04         -2.346618e-04          2.314186e-04          2.299481e-04          2.224186e-04          1.994693e-04 
+         3UTR.GACCCCA          3UTR.GCAGCCT          3UTR.GGGGAGC          3UTR.CGGGCAC           3UTR.TTTTTA          3UTR.AGTTAAC          3UTR.CAAAAAA          3UTR.GTTACGG          3UTR.TGTAACG           3UTR.ATTCGA 
+         1.959361e-04          1.897246e-04         -1.506424e-04          1.495697e-04         -1.475911e-04          1.448397e-04         -1.411761e-04         -1.401041e-04          1.387728e-04         -1.117519e-04 
+         3UTR.CCCAAGC          3UTR.GTTCCTA          3UTR.CCCGCCT          3UTR.CAAAAGC            3UTR.TTTTT          3UTR.GAAGTCG          3UTR.TAAAAAT          3UTR.ACAATGT            3UTR.TTTAT          3UTR.TTTAACT 
+         1.087244e-04          1.016549e-04         -8.457632e-05          8.429287e-05         -8.296677e-05          8.283588e-05          7.787274e-05          7.386394e-05         -5.257249e-05         -4.470567e-05 
+          3UTR.AAGTCA          3UTR.TAGCCAA          3UTR.CACTGTT          3UTR.CAGTCCG          3UTR.TGCAAAA          3UTR.AGGAGAG          3UTR.ACCAATA          3UTR.GCTGTGT          3UTR.CCAGTTC           (Intercept) 
+         4.355961e-05          4.224189e-05         -3.620670e-05         -3.145988e-05         -2.812808e-05         -2.272083e-05         -2.043827e-05         -1.679769e-05         -7.937504e-06          2.895005e-16 
+[1] 460
+[1] "0.605849124270848"
+[1] "0.598979196811759"
+[1] "0.595048801273099"
+[1] "0.598554227801336"
+[1] "0.590014136279247"
+[1] "0.642707150538004"
+[1] "0.616339574108593"
+[1] "0.590135126787618"
+[1] "0.607145618032956"
+[1] "0.606786170322613"
+          [,1]
+[1,] 0.6097139
+          [,1]
+[1,] 0.6050605
+null device 
+          1 

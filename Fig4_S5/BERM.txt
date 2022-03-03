@@ -1,0 +1,133 @@
+Warning message:
+package ‘data.table’ was built under R version 3.6.3 
+Loading required package: Matrix
+Loaded glmnet 4.1-1
+Warning message:
+package ‘glmnet’ was built under R version 3.6.3 
+  [1] "GENEID"                         "HALFLIFE"                       "UTR5LEN"                        "CDSLEN"                         "INTRONLEN"                      "UTR3LEN"                        "UTR5GC"                        
+  [8] "CDSGC"                          "UTR3GC"                         "ORFEXONDENSITY"                 "RIP.eIF4E.Rissland"             "RIP.eIF4G.Rissland"             "RIP.PABP.Rissland"              "RIP.YTHDF2.polyA.He"           
+ [15] "RIP.YTHDF2.RiboMinusRIP.He"     "TE.He"                          "RIP.YTHDF1_polyA_He"            "RIP.YTHDF1_RiboMinus_He"        "RIP.YTHDF3_polyA_He"            "RIP.YTHDF3_RiboMinus_He"        "RIP.ADAR"                      
+ [22] "RIP.CTCF"                       "RIP.DNMT1"                      "RIP.HNRNPH"                     "RIP.HNRNPU"                     "RIP.HDAC1"                      "RIP.CBX"                        "RIP.IMP1"                      
+ [29] "RIP.CHD4"                       "RIP.EZH2"                       "RIP.CBP"                        "RIP.CHD1"                       "RIP.HUR"                        "RIP.CHD7"                       "RIP.SUZ12"                     
+ [36] "RIP.LSD1"                       "RIP.PCBX"                       "RIP.STAG2"                      "RIP.PHF8"                       "RIP.PCAF"                       "RIP.WDR5"                       "RIP.RBBP5"                     
+ [43] "RIP.NUP98"                      "RIP.PABP"                       "adrenal gland.DGCR8"            "eCLIP.ADRENAL GLAND.HNRNPU"     "eCLIP.HEPG2.AGGF1"              "eCLIP.HEPG2.AKAP1"              "eCLIP.HEPG2.AQR"               
+ [50] "eCLIP.HEPG2.BCCIP"              "eCLIP.HEPG2.BCLAF1"             "eCLIP.HEPG2.BUD13"              "eCLIP.HEPG2.CDC40"              "eCLIP.HEPG2.CSTF2"              "eCLIP.HEPG2.CSTF2T"             "eCLIP.HEPG2.DDX3X"             
+ [57] "eCLIP.HEPG2.DDX52"              "eCLIP.HEPG2.DDX55"              "eCLIP.HEPG2.DDX59"              "eCLIP.HEPG2.DDX6"               "eCLIP.HEPG2.DGCR8"              "eCLIP.HEPG2.DHX30"              "eCLIP.HEPG2.DKC1"              
+ [64] "eCLIP.HEPG2.DROSHA"             "eCLIP.HEPG2.EFTUD2"             "eCLIP.HEPG2.EIF3D"              "eCLIP.HEPG2.EIF3H"              "eCLIP.HEPG2.EXOSC5"             "eCLIP.HEPG2.FAM120A"            "eCLIP.HEPG2.FASTKD2"           
+ [71] "eCLIP.HEPG2.FKBP4"              "eCLIP.HEPG2.FTO"                "eCLIP.HEPG2.FUBP3"              "eCLIP.HEPG2.FUS"                "eCLIP.HEPG2.FXR2"               "eCLIP.HEPG2.G3BP1"              "eCLIP.HEPG2.GRSF1"             
+ [78] "eCLIP.HEPG2.GRWD1"              "eCLIP.HEPG2.GTF2F1"             "eCLIP.HEPG2.HLTF"               "eCLIP.HEPG2.HNRNPA1"            "eCLIP.HEPG2.HNRNPC"             "eCLIP.HEPG2.HNRNPK"             "eCLIP.HEPG2.HNRNPL"            
+ [85] "eCLIP.HEPG2.HNRNPM"             "eCLIP.HEPG2.HNRNPU"             "eCLIP.HEPG2.HNRNPUL1"           "eCLIP.HEPG2.IGF2BP1"            "eCLIP.HEPG2.IGF2BP3"            "eCLIP.HEPG2.ILF3"               "eCLIP.HEPG2.KHSRP"             
+ [92] "eCLIP.HEPG2.LARP4"              "eCLIP.HEPG2.LARP7"              "eCLIP.HEPG2.LIN28B"             "eCLIP.HEPG2.LSM11"              "eCLIP.HEPG2.MATR3"              "eCLIP.HEPG2.NCBP2"              "eCLIP.HEPG2.NIP7"              
+ [99] "eCLIP.HEPG2.NKRF"               "eCLIP.HEPG2.NOL12"              "eCLIP.HEPG2.NOLC1"              "eCLIP.HEPG2.PABPN1"             "eCLIP.HEPG2.PCBP1"              "eCLIP.HEPG2.PCBP2"              "eCLIP.HEPG2.POLR2G"            
+[106] "eCLIP.HEPG2.PPIG"               "eCLIP.HEPG2.PRPF4"              "eCLIP.HEPG2.PRPF8"              "eCLIP.HEPG2.PTBP1"              "eCLIP.HEPG2.QKI"                "eCLIP.HEPG2.RBFOX2"             "eCLIP.HEPG2.RBM15"             
+[113] "eCLIP.HEPG2.RBM22"              "eCLIP.HEPG2.RBM5"               "eCLIP.HEPG2.RPS3"               "eCLIP.HEPG2.SAFB"               "eCLIP.HEPG2.SDAD1"              "eCLIP.HEPG2.SF3A3"              "eCLIP.HEPG2.SF3B4"             
+[120] "eCLIP.HEPG2.SFPQ"               "eCLIP.HEPG2.SLTM"               "eCLIP.HEPG2.SMNDC1"             "eCLIP.HEPG2.SND1"               "eCLIP.HEPG2.SRSF1"              "eCLIP.HEPG2.SRSF7"              "eCLIP.HEPG2.SRSF9"             
+[127] "eCLIP.HEPG2.SSB"                "eCLIP.HEPG2.STAU2"              "eCLIP.HEPG2.SUB1"               "eCLIP.HEPG2.SUGP2"              "eCLIP.HEPG2.SUPV3L1"            "eCLIP.HEPG2.TAF15"              "eCLIP.HEPG2.TBRG4"             
+[134] "eCLIP.HEPG2.TIA1"               "eCLIP.HEPG2.TIAL1"              "eCLIP.HEPG2.TRA2A"              "eCLIP.HEPG2.TROVE2"             "eCLIP.HEPG2.U2AF1"              "eCLIP.HEPG2.U2AF2"              "eCLIP.HEPG2.UCHL5"             
+[141] "eCLIP.HEPG2.UPF1"               "eCLIP.HEPG2.UTP18"              "eCLIP.HEPG2.WDR43"              "eCLIP.HEPG2.XPO5"               "eCLIP.HEPG2.XRCC6"              "eCLIP.HEPG2.XRN2"               "eCLIP.HEPG2.YBX3"              
+[148] "eCLIP.HEPG2.ZC3H11A"            "eCLIP.HEPG2.ZNF800"             "eCLIP.K562.AARS"                "eCLIP.K562.AATF"                "eCLIP.K562.ABCF1"               "eCLIP.K562.AGGF1"               "eCLIP.K562.AKAP1"              
+[155] "eCLIP.K562.AKAP8L"              "eCLIP.K562.APOBEC3C"            "eCLIP.K562.AQR"                 "eCLIP.K562.BUD13"               "eCLIP.K562.CPEB4"               "eCLIP.K562.CPSF6"               "eCLIP.K562.CSTF2T"             
+[162] "eCLIP.K562.DDX21"               "eCLIP.K562.DDX24"               "eCLIP.K562.DDX3X"               "eCLIP.K562.DDX42"               "eCLIP.K562.DDX51"               "eCLIP.K562.DDX52"               "eCLIP.K562.DDX55"              
+[169] "eCLIP.K562.DDX6"                "eCLIP.K562.DGCR8"               "eCLIP.K562.DHX30"               "eCLIP.K562.DROSHA"              "eCLIP.K562.EFTUD2"              "eCLIP.K562.EIF3G"               "eCLIP.K562.EIF4G2"             
+[176] "eCLIP.K562.EWSR1"               "eCLIP.K562.EXOSC5"              "eCLIP.K562.FAM120A"             "eCLIP.K562.FASTKD2"             "eCLIP.K562.FMR1"                "eCLIP.K562.FTO"                 "eCLIP.K562.FUS"                
+[183] "eCLIP.K562.FXR1"                "eCLIP.K562.FXR2"                "eCLIP.K562.GEMIN5"              "eCLIP.K562.GNL3"                "eCLIP.K562.GPKOW"               "eCLIP.K562.GRWD1"               "eCLIP.K562.GTF2F1"             
+[190] "eCLIP.K562.HLTF"                "eCLIP.K562.HNRNPA1"             "eCLIP.K562.HNRNPC"              "eCLIP.K562.HNRNPK"              "eCLIP.K562.HNRNPL"              "eCLIP.K562.HNRNPM"              "eCLIP.K562.HNRNPU"             
+[197] "eCLIP.K562.HNRNPUL1"            "eCLIP.K562.IGF2BP1"             "eCLIP.K562.IGF2BP2"             "eCLIP.K562.ILF3"                "eCLIP.K562.KHDRBS1"             "eCLIP.K562.KHSRP"               "eCLIP.K562.LARP4"              
+[204] "eCLIP.K562.LARP7"               "eCLIP.K562.LIN28B"              "eCLIP.K562.LSM11"               "eCLIP.K562.MATR3"               "eCLIP.K562.METAP2"              "eCLIP.K562.MTPAP"               "eCLIP.K562.NCBP2"              
+[211] "eCLIP.K562.NIPBL"               "eCLIP.K562.NOLC1"               "eCLIP.K562.NONO"                "eCLIP.K562.NPM1"                "eCLIP.K562.NSUN2"               "eCLIP.K562.PABPC4"              "eCLIP.K562.PCBP1"              
+[218] "eCLIP.K562.PHF6"                "eCLIP.K562.PPIL4"               "eCLIP.K562.PRPF8"               "eCLIP.K562.PTBP1"               "eCLIP.K562.PUM1"                "eCLIP.K562.PUM2"                "eCLIP.K562.PUS1"               
+[225] "eCLIP.K562.QKI"                 "eCLIP.K562.RBFOX2"              "eCLIP.K562.RBM15"               "eCLIP.K562.RBM22"               "eCLIP.K562.RPS11"               "eCLIP.K562.RPS3"                "eCLIP.K562.SAFB"               
+[232] "eCLIP.K562.SAFB2"               "eCLIP.K562.SBDS"                "eCLIP.K562.SDAD1"               "eCLIP.K562.SERBP1"              "eCLIP.K562.SF3B1"               "eCLIP.K562.SF3B4"               "eCLIP.K562.SLBP"               
+[239] "eCLIP.K562.SLTM"                "eCLIP.K562.SMNDC1"              "eCLIP.K562.SND1"                "eCLIP.K562.SRSF1"               "eCLIP.K562.SRSF7"               "eCLIP.K562.SSB"                 "eCLIP.K562.SUPV3L1"            
+[246] "eCLIP.K562.TAF15"               "eCLIP.K562.TARDBP"              "eCLIP.K562.TBRG4"               "eCLIP.K562.TIA1"                "eCLIP.K562.TRA2A"               "eCLIP.K562.TROVE2"              "eCLIP.K562.U2AF1"              
+[253] "eCLIP.K562.U2AF2"               "eCLIP.K562.UCHL5"               "eCLIP.K562.UPF1"                "eCLIP.K562.UTP18"               "eCLIP.K562.UTP3"                "eCLIP.K562.WDR3"                "eCLIP.K562.WDR43"              
+[260] "eCLIP.K562.WRN"                 "eCLIP.K562.XRCC6"               "eCLIP.K562.XRN2"                "eCLIP.K562.YBX3"                "eCLIP.K562.YWHAG"               "eCLIP.K562.ZC3H11A"             "eCLIP.K562.ZC3H8"              
+[267] "eCLIP.K562.ZNF622"              "eCLIP.K562.ZNF800"              "eCLIP.K562.ZRANB2"              "M6ACLIP.YTHDF2_HRSP12_KimPeaks" "M6ACLIP.m6aJaffrey"             "M6ACLIP.m6Am_Jaffrey"           "M6ACLIP.m6A_Schwarz"           
+[274] "M6ACLIP.m6A_HEK_Shu"            "M6ACLIP.a6A_HeLa_Shu"           "M6ACLIP.a6A_HEK293_Shu"         "M6ACLIP.He_WTAP"                "M6ACLIP.He_METTL14"             "M6ACLIP.He_METTL3"              "M6ACLIP.m6a_H1T48_Chang"       
+[281] "M6ACLIP.m6a_H1T0_Chang"         "M6ACLIP.m6a_Chang"              "ENCORI.ACIN1"                   "ENCORI.ADAR"                    "ENCORI.AIFM1"                   "ENCORI.ALKBH5"                  "ENCORI.ALYREF"                 
+[288] "ENCORI.AUH"                     "ENCORI.BCCIP"                   "ENCORI.BUD13"                   "ENCORI.CAPRIN1"                 "ENCORI.CBX7"                    "ENCORI.CELF2"                   "ENCORI.CNBP"                   
+[295] "ENCORI.CPSF6"                   "ENCORI.CSTF2T"                  "ENCORI.DDX3X"                   "ENCORI.DDX42"                   "ENCORI.DDX54"                   "ENCORI.DGCR8"                   "ENCORI.DHX9"                   
+[302] "ENCORI.DICER1"                  "ENCORI.DIS3L2"                  "ENCORI.DKC1"                    "ENCORI.EIF3A"                   "ENCORI.EIF3B"                   "ENCORI.EIF3D"                   "ENCORI.EIF3G"                  
+[309] "ENCORI.EIF4A1"                  "ENCORI.EIF4A3"                  "ENCORI.EIF4G1"                  "ENCORI.EIF4G2"                  "ENCORI.ELAVL1"                  "ENCORI.ELAVL3"                  "ENCORI.EWSR1"                  
+[316] "ENCORI.FAM120A"                 "ENCORI.FBL"                     "ENCORI.FKBP4"                   "ENCORI.FMR1"                    "ENCORI.FTO"                     "ENCORI.FUS"                     "ENCORI.FXR1"                   
+[323] "ENCORI.FXR2"                    "ENCORI.GNL3"                    "ENCORI.GTF2F1"                  "ENCORI.HNRNPA1"                 "ENCORI.HNRNPA2B1"               "ENCORI.HNRNPC"                  "ENCORI.HNRNPD"                 
+[330] "ENCORI.HNRNPK"                  "ENCORI.HNRNPL"                  "ENCORI.HNRNPM"                  "ENCORI.HNRNPU"                  "ENCORI.HNRNPUL1"                "ENCORI.IGF2BP1"                 "ENCORI.IGF2BP2"                
+[337] "ENCORI.IGF2BP3"                 "ENCORI.ILF3"                    "ENCORI.KHDRBS1"                 "ENCORI.KHDRBS2"                 "ENCORI.KHDRBS3"                 "ENCORI.KHSRP"                   "ENCORI.LARP4B"                 
+[344] "ENCORI.LARP7"                   "ENCORI.LIN28"                   "ENCORI.LIN28A"                  "ENCORI.LIN28B"                  "ENCORI.LSM11"                   "ENCORI.MBNL1"                   "ENCORI.MBNL2"                  
+[351] "ENCORI.METTL14"                 "ENCORI.METTL3"                  "ENCORI.MOV10"                   "ENCORI.MSI1"                    "ENCORI.MSI2"                    "ENCORI.NCBP3"                   "ENCORI.NONO"                   
+[358] "ENCORI.NOP56"                   "ENCORI.NOP58"                   "ENCORI.NPM1"                    "ENCORI.NUMA1"                   "ENCORI.PAPD5"                   "ENCORI.PCBP2"                   "ENCORI.PRPF8"                  
+[365] "ENCORI.PTBP1"                   "ENCORI.PUM1"                    "ENCORI.PUM2"                    "ENCORI.QKI"                     "ENCORI.RANGAP1"                 "ENCORI.RBFOX2"                  "ENCORI.RBM10"                  
+[372] "ENCORI.RBM22"                   "ENCORI.RBM27"                   "ENCORI.RBM39"                   "ENCORI.RBM47"                   "ENCORI.RBM5"                    "ENCORI.RBM6"                    "ENCORI.RC3H1"                  
+[379] "ENCORI.RNF219"                  "ENCORI.RTCB"                    "ENCORI.SAFB2"                   "ENCORI.SBDS"                    "ENCORI.SF3A3"                   "ENCORI.SF3B4"                   "ENCORI.SLBP"                   
+[386] "ENCORI.SLTM"                    "ENCORI.SMNDC1"                  "ENCORI.SND1"                    "ENCORI.SRSF1"                   "ENCORI.SRSF10"                  "ENCORI.SRSF3"                   "ENCORI.SRSF7"                  
+[393] "ENCORI.SRSF9"                   "ENCORI.TAF15"                   "ENCORI.TARBP2"                  "ENCORI.TARDBP"                  "ENCORI.TIA1"                    "ENCORI.TIAL1"                   "ENCORI.TNRC6A"                 
+[400] "ENCORI.TRA2A"                   "ENCORI.TROVE2"                  "ENCORI.U2AF1"                   "ENCORI.U2AF2"                   "ENCORI.UPF1"                    "ENCORI.VIM"                     "ENCORI.WTAP"                   
+[407] "ENCORI.XRN2"                    "ENCORI.YTHDC1"                  "ENCORI.YTHDC2"                  "ENCORI.YTHDF1"                  "ENCORI.YTHDF2"                  "ENCORI.YWHAG"                   "ENCORI.ZC3H7B"                 
+[414] "ENCORI.ZFP36"                   "ENCORI.ZNF184"                  "PARCLIP.DND1"                   "PARCLIP.FUS"                    "PARCLIP.TDP43"                  "PARCLIP.ATAXIN2"                "PARCLIP.ELAVL2"                
+[421] "PARCLIP.ELAVL3"                 "PARCLIP.ELAVL4"                 "PARCLIP.RBM20.1"                "PARCLIP.RBM20"                  "PARCLIP.MBNL1"                  "PARCLIP.P53_NONO"               "PARCLIP.P54_TP53"              
+[428] "PARCLIP.IGF2BP1"                "PARCLIP.IGF2BP1.1"              "PARCLIP.IGF2BP1.2"              "PARCLIP.IGF2BP1.3"              "PARCLIP.IGF2BP1.4"              "PARCLIP.IGF2BP1.5"              "PARCLIP.IGF2BP2"               
+[435] "PARCLIP.IGF2BP2.1"              "PARCLIP.IGF2BP2.2"              "PARCLIP.IGF2BP3"                "PARCLIP.IGF2BP3.1"              "PARCLIP.IGF2BP3.2"              "PARCLIP.PUM2"                   "PARCLIP.PUM2.1"                
+[442] "PARCLIP.QKI"                    "PARCLIP.QKI.1"                  "PARCLIP.AGO1"                   "PARCLIP.AGO3"                   "PARCLIP.AGO4"                   "PARCLIP.FUS.1"                  "PARCLIP.FUS.2"                 
+[449] "PARCLIP.FUS.3"                  "PARCLIP.EWSR1"                  "PARCLIP.EWSR1.1"                "PARCLIP.TAF15.1"                "PARCLIP.TAF15"                  "PARCLIP.HNRNPD"                 "PARCLIP.ZFP36"                 
+[456] "PARCLIP.DICER1"                 "PARCLIP.DICER1.1"               "PARCLIP.DICER1.2"               "PARCLIP.DICER1.3"               "PARCLIP.DICER1.4"               "PARCLIP.DICER1.5"               "PARCLIP.RBPMS"                 
+[463] "PARCLIP.RBPMS.1"                "PARCLIP.HNRNPC"                 "PARCLIP.HNRNPC.1"               "PARCLIP.SRRM4"                  "PARCLIP.PTBP1"                  "PARCLIP.WDR33"                  "PARCLIP.DIS3"                  
+[470] "PARCLIP.EIF3A"                  "PARCLIP.EIF3A.1"                "PARCLIP.EIF3A.2"                "PARCLIP.EIF3B"                  "PARCLIP.EIF3B.1"                "PARCLIP.EIF3D"                  "PARCLIP.EIF3D.1"               
+[477] "PARCLIP.EIF3G"                  "PARCLIP.EIF3G.1"                "PARCLIP.ELAVL1"                 "PARCLIP.ELAVL1.5"               "PARCLIP.ELAVL1.1"               "PARCLIP.ELAVL1.2"               "PARCLIP.ELAVL1.6"              
+[484] "PARCLIP.AGO2.2"                 "PARCLIP.AGO2.3"                 "PARCLIP.AGO2"                   "PARCLIP.AGO2.1"                 "PARCLIP.ELAVL1.7"               "PARCLIP.SRR3090642"             "PARCLIP.SSB"                   
+[491] "PARCLIP.PAPD5"                  "PARCLIP.NUDT21"                 "PARCLIP.NUDT21.1"               "PARCLIP.CPSF7"                  "PARCLIP.CPSF6"                  "PARCLIP.CPSF6.1"                "PARCLIP.CPSF4"                 
+[498] "PARCLIP.CPSF4.1"                "PARCLIP.CPSF3"                  "PARCLIP.CPSF3.1"                "PARCLIP.CPSF2"                  "PARCLIP.CPSF1.1"                "PARCLIP.CPSF1"                  "PARCLIP.FIP1L1"                
+[505] "PARCLIP.FIP1L1.1"               "PARCLIP.CSTF2"                  "PARCLIP.CSTF2T"                 "PARCLIP.CSTF2T.1"               "PARCLIP.MOV10"                  "PARCLIP.ALKBH5"                 "PARCLIP.ALKBH5.1"              
+[512] "PARCLIP.NCBP3"                  "PARCLIP.NCBP3.1"                "PARCLIP.RTCB"                   "PARCLIP.RTCB.1"                 "PARCLIP.CAPRIN1"                "PARCLIP.CAPRIN1.1"              "PARCLIP.ZC3H7B"                
+[519] "PARCLIP.ZC3H7B.1"               "PARCLIP.FMR1iso1"               "PARCLIP.FMR1iso7"               "PARCLIP.FXR1"                   "PARCLIP.FXR2"                   "PARCLIP.AGO1.1"                 "PARCLIP.AGO1.2"                
+[526] "PARCLIP.AGO1.3"                 "PARCLIP.AGO2.4"                 "PARCLIP.NOP58"                  "PARCLIP.NOP58.1"                "PARCLIP.NOP56"                  "PARCLIP.FBL"                    "PARCLIP.FBL.1"                 
+[533] "PARCLIP.L1RE1"                  "PARCLIP.L1RE1.1"                "PARCLIP.ORF1"                   "PARCLIP.ORF1.1"                 "PARCLIP.ELAVL1.3"               "PARCLIP.LIN28A"                 "PARCLIP.LIN28B.2"              
+[540] "PARCLIP.LIN28B.3"               "PARCLIP.LIN28B"                 "PARCLIP.RBM10"                  "PARCLIP.RBM10.1"                "PARCLIP.LIN28B.1"               "PARCLIP.LIN28B.4"               "PARCLIP.RC3H1"                 
+[547] "PARCLIP.RC3H1.1"                "PARCLIP.MOV10.1"                "PARCLIP.MOV10.2"                "PARCLIP.UPF1"                   "PARCLIP.SRR989633"              "PARCLIP.G35"                    "PARCLIP.G45"                   
+[554] "PARCLIP.ELAVL1.4"               "PARCLIP.ELAVL1.8"               "PARCLIP.SRR989638"              "PARCLIP.TARBP2"                 "PARCLIP.TARBP2.1"               "PARCLIP.XPO5"                   "PARCLIP.ZNF598.1"              
+[561] "PARCLIP.ZNF598.2"              
+[1] "With Ensembl IDs + Features:  12981"
+[1] "Dimensions:  12981" "Dimensions:  189"  
+            GENEID   HALFLIFE  UTR5LEN   CDSLEN INTRONLEN
+1  ENSG00000000003  8.6609546 2.045714 2.862191  3.774013
+2  ENSG00000000457 -6.9291729 2.342620 3.345001  4.577654
+3  ENSG00000000460  0.4409086 2.843295 3.404338  4.735160
+4  ENSG00000000938 -0.9436801 2.456518 3.197584  4.311798
+5  ENSG00000000971  7.7204267 2.378580 3.564796  4.961545
+6  ENSG00000001036  8.3098107 1.741152 3.144294  4.162418
+7  ENSG00000001084 -3.7929552 2.684037 3.277632  4.643414
+8  ENSG00000001167 -6.4981408 2.299071 3.013722  4.366145
+9  ENSG00000001460 -3.5762115 2.403292 2.997430  4.742789
+10 ENSG00000001461  0.2905773 2.563600 3.081743  4.714490
+null device 
+          1 
+            1
+[1,] 0.522644
+             1
+[1,] 0.5227814
+       RIP.YTHDF2.polyA.He             ORFEXONDENSITY                   RIP.PABP                ENCORI.SND1                   RIP.WDR5                   RIP.PHF8              ENCORI.LIN28A               ENCORI.RC3H1 
+             -3.378539e-01               2.771286e-01               9.339323e-02               8.443510e-02              -7.116309e-02              -6.575364e-02               5.549431e-02              -5.471103e-02 
+              ENCORI.ZFP36                ENCORI.PUM2               ENCORI.LIN28              ENCORI.ELAVL1               ENCORI.LARP7         RIP.eIF4G.Rissland              ENCORI.EIF4A1       M6ACLIP.m6Am_Jaffrey 
+             -4.014096e-02              -3.938105e-02               3.084696e-02              -3.060569e-02               3.015679e-02               2.996745e-02               2.913299e-02               2.885903e-02 
+             ENCORI.EIF4G1         M6ACLIP.m6aJaffrey                     UTR3GC        M6ACLIP.m6A_Schwarz                   RIP.PCAF          M6ACLIP.m6a_Chang                ENCORI.SBDS              ENCORI.LARP4B 
+              2.649146e-02              -2.627984e-02               1.976051e-02              -1.919298e-02              -1.618357e-02              -1.415588e-02               1.190623e-02               9.633261e-03 
+             ENCORI.RNF219 RIP.YTHDF2.RiboMinusRIP.He    M6ACLIP.m6a_H1T48_Chang             ENCORI.METTL14       M6ACLIP.a6A_HeLa_Shu                 ENCORI.FUS                (Intercept) 
+              5.203713e-03              -2.723116e-03              -1.894226e-03               1.463199e-03              -1.296934e-03               1.017658e-03               2.863297e-16 
+[1] 31
+null device 
+          1 
+[1] "0.715742671748522"
+[1] "0.726391195434829"
+[1] "0.73539739545632"
+[1] "0.723918477910148"
+[1] "0.717590885927858"
+[1] "0.728168924647747"
+[1] "0.719316671423216"
+[1] "0.498833420688696"
+[1] "0.720423538636814"
+[1] "0.708252092846731"
+          [,1]
+[1,] 0.5200235
+          [,1]
+[1,] 0.4705135
+null device 
+          1 

@@ -1,0 +1,195 @@
+[1] "with miRNA features"
+[1] "With Ensembl IDs + Features:  12981"
+[1] "Dimensions:  12981" "Dimensions:  22235"
+            GENEID   HALFLIFE  UTR5LEN   CDSLEN INTRONLEN
+1  ENSG00000000003  8.6609546 2.045714 2.862191  3.774013
+2  ENSG00000000457 -6.9291729 2.342620 3.345001  4.577654
+3  ENSG00000000460  0.4409086 2.843295 3.404338  4.735160
+4  ENSG00000000938 -0.9436801 2.456518 3.197584  4.311798
+5  ENSG00000000971  7.7204267 2.378580 3.564796  4.961545
+6  ENSG00000001036  8.3098107 1.741152 3.144294  4.162418
+7  ENSG00000001084 -3.7929552 2.684037 3.277632  4.643414
+8  ENSG00000001167 -6.4981408 2.299071 3.013722  4.366145
+9  ENSG00000001460 -3.5762115 2.403292 2.997430  4.742789
+10 ENSG00000001461  0.2905773 2.563600 3.081743  4.714490
+null device 
+          1 
+     lambda.min
+[1,]  0.5387876
+     lambda.min
+[1,]  0.5292254
+      ORFEXONDENSITY              UTR3LEN            Codon.CAC            Codon.TGT            Codon.AGC         3UTR.TATTTAT            Codon.AGT            Codon.GGT            Codon.TTA            Codon.CAA         3UTR.TGTAAAT 
+        4.411200e-01        -9.061688e-02        -6.881303e-02        -5.958759e-02        -5.787320e-02        -5.477883e-02        -4.768168e-02         4.521300e-02        -4.014652e-02        -3.898143e-02        -3.869744e-02 
+           Codon.AGG            Codon.TCA            Codon.GCT            Codon.CAG            Codon.CGA   MIR.hsa-miR-19a-3p            Codon.TGG    MIR.hsa-miR-25-3p            Codon.TCG            Codon.CGG          3UTR.AATAAA 
+       -3.737437e-02        -3.725085e-02         3.676166e-02        -3.337785e-02        -3.136075e-02        -3.038456e-02         2.900862e-02        -2.893132e-02        -2.831166e-02        -2.566666e-02         2.520089e-02 
+           Codon.GTG            Codon.AGA   MIR.hsa-miR-424-5p            Codon.GTC   MIR.hsa-miR-325-3p            Codon.CGT            Codon.AAG   MIR.hsa-miR-367-3p            Codon.GAT             3UTR.CCC            Codon.TCC 
+        2.365554e-02        -2.167070e-02        -2.106361e-02         2.057872e-02         2.056175e-02         2.036124e-02         1.999003e-02        -1.990518e-02         1.973564e-02         1.971387e-02        -1.957581e-02 
+          3UTR.CGCTA               UTR5GC            Codon.GCC   MIR.hsa-miR-30b-5p            Codon.CAT  MIR.hsa-miR-374a-5p   MIR.hsa-miR-454-3p          3UTR.TGTATA            Codon.ATC   MIR.hsa-miR-493-5p         3UTR.TGTATAT 
+        1.956008e-02         1.919725e-02         1.918128e-02        -1.911114e-02        -1.910533e-02        -1.893662e-02        -1.868227e-02        -1.827415e-02         1.813667e-02        -1.763036e-02        -1.739446e-02 
+   MIR.hsa-miR-17-5p         3UTR.AGGACTT            Codon.CCG            Codon.GGG    MIR.hsa-let-7d-5p             3UTR.GAC           3UTR.AGGAC         3UTR.TGTACAG              3UTR.GA    MIR.hsa-miR-24-3p   MIR.hsa-miR-144-3p 
+       -1.712095e-02        -1.697572e-02        -1.694758e-02         1.688320e-02        -1.602738e-02        -1.589410e-02        -1.544795e-02        -1.437629e-02        -1.434878e-02        -1.430321e-02        -1.415675e-02 
+           Codon.CCA         3UTR.CTGATGC             3UTR.TAG          3UTR.TTAGCT         3UTR.CTCATGG         3UTR.TATTTAA            Codon.ATT  MIR.hsa-miR-106b-5p         3UTR.TATATTT         3UTR.TATTTTT          3UTR.GATTAA 
+       -1.315902e-02         1.289442e-02         1.275418e-02         1.268786e-02        -1.243457e-02        -1.236920e-02         1.230665e-02        -1.198489e-02        -1.178584e-02        -1.168061e-02         1.147361e-02 
+  MIR.hsa-miR-381-3p            Codon.TTG         3UTR.TTGTAAA         3UTR.CGACGAC         3UTR.TTTTAGG         3UTR.CTAATAC         3UTR.CCTCAAA   MIR.hsa-miR-221-3p          3UTR.TTTTGT            Codon.CCC         3UTR.TCACCGG 
+       -1.142280e-02        -1.133348e-02        -1.127162e-02        -1.106551e-02         1.096915e-02         1.093534e-02        -1.074857e-02        -1.069841e-02        -1.061067e-02        -1.049978e-02         1.024093e-02 
+        3UTR.CTATGAT         3UTR.CAGGTCC         3UTR.AACGGGA           3UTR.TGTTT   MIR.hsa-miR-20b-5p            Codon.ATG          3UTR.TCGGAA           3UTR.CTTAG            Codon.TTC         3UTR.AGCTTAG         3UTR.TAAGAGT 
+        9.945454e-03        -9.862788e-03        -9.795623e-03        -9.762260e-03        -9.544680e-03         9.543692e-03        -9.488341e-03         9.420036e-03         9.419012e-03         9.337083e-03         9.309337e-03 
+          3UTR.ACTGT  MIR.hsa-miR-106a-5p         3UTR.GTGAAGG         3UTR.GTCTTCG         3UTR.CAGGAAA          3UTR.CACCCC         3UTR.AAATGCA         3UTR.AAATAAA           3UTR.CCTGC         3UTR.TGCCCTT         3UTR.ATGTTGA 
+       -9.160712e-03        -9.053518e-03        -8.994683e-03        -8.986267e-03        -8.905776e-03         8.902766e-03        -8.855572e-03         8.816211e-03         8.792299e-03         8.707492e-03        -8.677435e-03 
+  MIR.hsa-miR-15b-5p         3UTR.CGCCATT         3UTR.GCGATAG         3UTR.CATTGGG           3UTR.CACTT    MIR.hsa-miR-21-5p           3UTR.CGAGA         3UTR.TTGCTGC         3UTR.AATACGC         3UTR.GCCCGCT         3UTR.GCAATGG 
+       -8.481861e-03         8.402286e-03        -8.340126e-03        -8.332491e-03        -8.313911e-03        -8.295135e-03        -8.265059e-03        -8.236483e-03        -8.173241e-03         8.154219e-03        -7.975993e-03 
+         3UTR.CAGAAG         3UTR.GTACCTC            Codon.TGA  MIR.hsa-miR-148a-3p            Codon.GGC   MIR.hsa-miR-410-3p         3UTR.CCCCTGC         3UTR.ATTTGGA         3UTR.TCATGAC           3UTR.TTATT   MIR.hsa-miR-27a-3p 
+       -7.963359e-03        -7.960747e-03         7.935000e-03        -7.920713e-03         7.835661e-03        -7.795104e-03         7.682515e-03         7.670154e-03         7.616297e-03        -7.549966e-03        -7.522585e-03 
+  MIR.hsa-miR-363-3p          3UTR.GCCCCT   MIR.hsa-miR-372-3p         3UTR.CTTGACA         3UTR.GTAGGAC         3UTR.CGCGCCC         3UTR.CATATAA         3UTR.GTTTACA         3UTR.GCACTTT   MIR.hsa-miR-29a-3p         3UTR.CTGAGCG 
+       -7.418059e-03         7.413076e-03        -7.406204e-03        -7.384213e-03        -7.262774e-03        -7.235037e-03        -7.065523e-03        -7.057804e-03        -7.051717e-03        -6.983838e-03         6.957271e-03 
+        3UTR.TGATCGC   MIR.hsa-miR-342-3p         3UTR.AGGCGGC         3UTR.TTGCGGA  MIR.hsa-miR-376a-3p         3UTR.GGCTTTG         3UTR.GGAACCC         3UTR.GCATCCG          3UTR.TCCCGC  MIR.hsa-miR-208b-3p         3UTR.CAGCCCC 
+        6.936102e-03        -6.916777e-03         6.905054e-03        -6.887686e-03        -6.858016e-03        -6.809551e-03         6.805166e-03         6.772298e-03         6.749086e-03        -6.703535e-03         6.694324e-03 
+        3UTR.GAGAACA         3UTR.CGAAAAA           3UTR.GACTG          3UTR.GCTGTC         3UTR.ACTGCTC  MIR.hsa-miR-519d-3p         3UTR.GAGAAAG         3UTR.TTGCACA         3UTR.TTGGGCC            Codon.TAC           3UTR.TGGAC 
+       -6.647212e-03        -6.627064e-03        -6.616544e-03         6.581732e-03        -6.577300e-03        -6.553456e-03        -6.539365e-03        -6.523964e-03        -6.522074e-03         6.467325e-03        -6.445949e-03 
+        3UTR.ATCTCAG           3UTR.TATGT         3UTR.GCAACGG  MIR.hsa-miR-520a-3p         3UTR.ATCACCG         3UTR.CCCAACC   MIR.hsa-miR-15a-5p         3UTR.TAAAGTT         3UTR.CTTTTAG            Codon.GGA         3UTR.GTATAGA 
+       -6.404898e-03        -6.399731e-03        -6.380091e-03        -6.332841e-03        -6.316268e-03         6.286020e-03        -6.239142e-03         6.212514e-03         6.178760e-03         6.147146e-03        -6.128342e-03 
+         3UTR.TGGACA         3UTR.GTGGACT          3UTR.GAAACT         3UTR.AAGCAAC         3UTR.ATCTTAC         3UTR.GCTGCTA            Codon.GAC         3UTR.GTACATA   MIR.hsa-miR-194-5p         3UTR.GTAAGTG         3UTR.TAATACG 
+       -6.105107e-03        -6.101295e-03        -6.069266e-03         6.046939e-03        -6.045932e-03        -6.042399e-03        -6.011041e-03        -5.964725e-03        -5.904123e-03        -5.903875e-03        -5.881245e-03 
+         3UTR.TACAGT            INTRONLEN         3UTR.CACCCCA         3UTR.CGGCTGG         3UTR.GGAAGGA         3UTR.TAGACGG         3UTR.GCGTGAC         3UTR.GAGTTAT         3UTR.CGTATGC         3UTR.TTTTTTT  MIR.hsa-miR-520f-3p 
+       -5.877492e-03        -5.868878e-03         5.862426e-03        -5.851051e-03        -5.841758e-03        -5.829388e-03        -5.827427e-03        -5.825504e-03        -5.823380e-03        -5.814079e-03        -5.781653e-03 
+         3UTR.GACTGA         3UTR.ATGCGAT            3UTR.TACG         3UTR.TGCCGCT          3UTR.AAAGTA         3UTR.ACCGGGT         3UTR.CTACAAC         3UTR.TAATTGA         3UTR.TATGTAT         3UTR.CACCGCC         3UTR.GCTGGGG 
+       -5.770329e-03        -5.746021e-03        -5.715714e-03         5.651043e-03         5.624629e-03        -5.583922e-03        -5.578147e-03         5.550555e-03        -5.491380e-03         5.489603e-03         5.433332e-03 
+        3UTR.GCACTAG         3UTR.ACCTTTA         3UTR.TGCCTGA         3UTR.GACGTGT         3UTR.TAGTATT         3UTR.ACGATAG         3UTR.CGTTTAC   MIR.hsa-miR-409-5p  MIR.hsa-miR-450a-5p          3UTR.TTTGTC         3UTR.CTTAGCT 
+       -5.415578e-03         5.405209e-03         5.400419e-03        -5.339425e-03         5.335313e-03         5.333394e-03        -5.325173e-03         5.319086e-03        -5.313080e-03         5.274076e-03         5.273035e-03 
+        3UTR.TGTACAT         3UTR.TGCATGC          3UTR.CGGTAA         3UTR.AGACTGC         3UTR.TAGTGGA         3UTR.AACGGTA   MIR.hsa-miR-155-5p         3UTR.GAAACAA         3UTR.CACACTT         3UTR.CGGTACT         3UTR.CCGCCAT 
+       -5.231613e-03         5.162112e-03         5.159695e-03        -5.126568e-03         5.115133e-03        -5.114448e-03        -5.107695e-03         5.060676e-03        -4.981644e-03        -4.980893e-03         4.975493e-03 
+MIR.hsa-miR-140-3p.1         3UTR.TTTCATC         3UTR.GGAAATT         3UTR.GCTGCCA         3UTR.GGATCTC         3UTR.CTTGCTT         3UTR.ACGGACA         3UTR.TTGGTGC         3UTR.ACGGATC         3UTR.ATTAATC         3UTR.AATCAGT 
+       -4.957109e-03         4.957053e-03        -4.932305e-03        -4.928649e-03        -4.917825e-03         4.897424e-03        -4.889882e-03        -4.853132e-03        -4.810689e-03         4.791257e-03         4.762162e-03 
+        3UTR.GGGAGCG         3UTR.CTCGACT         3UTR.AGTTGCG         3UTR.GTTGCCT         3UTR.TTATATG           3UTR.GAACT          3UTR.TTTTTC         3UTR.AGTAATA         3UTR.AACGCAA         3UTR.TCGATTA         3UTR.CGGCGTA 
+       -4.755341e-03        -4.741813e-03        -4.735271e-03         4.725466e-03        -4.722479e-03        -4.693172e-03         4.664420e-03         4.632970e-03        -4.620625e-03         4.613096e-03         4.551504e-03 
+        3UTR.GGATAAG         3UTR.GGGGGTT         3UTR.GTAGCAC          3UTR.AGTAGT          3UTR.AAATAC         3UTR.AGAACTG         3UTR.AAAGCTG         3UTR.AAGTACA         3UTR.TATGTCT         3UTR.TAAACTG         3UTR.GACAGCG 
+       -4.549081e-03         4.518924e-03        -4.505252e-03         4.504297e-03        -4.503771e-03        -4.459999e-03        -4.448180e-03         4.448044e-03        -4.446667e-03        -4.436898e-03         4.427434e-03 
+        3UTR.CATTCCT         3UTR.ACAGAAC         3UTR.AGCAGCA            Codon.ACC          3UTR.CGATCG  MIR.hsa-miR-199b-5p         3UTR.CCACACA      MIR.hsa-miR-375          3UTR.CGTAGA         3UTR.GACTTTT           3UTR.ACTTG 
+        4.359847e-03        -4.359234e-03         4.347408e-03         4.318327e-03        -4.266752e-03        -4.265275e-03        -4.242297e-03        -4.198756e-03         4.198705e-03        -4.197447e-03        -4.180865e-03 
+        3UTR.CAAGCGG   MIR.hsa-miR-182-5p          3UTR.AGAAGC         3UTR.ATTTCAC          3UTR.CGGATT         3UTR.ACACCTC          3UTR.ACCCCT         3UTR.TCCCTCC         3UTR.CCCCGAC         3UTR.CGGGACC   MIR.hsa-miR-377-3p 
+       -4.175122e-03        -4.171989e-03        -4.171407e-03        -4.170876e-03         4.168488e-03         4.152194e-03         4.097113e-03         4.091101e-03         4.077835e-03         4.073683e-03        -4.065922e-03 
+        3UTR.AAACCAT          3UTR.ACTTGA         3UTR.TTAGCTA         3UTR.AGAAGGT         3UTR.GGTTTAA         3UTR.CGAACAG           3UTR.TACCC         3UTR.GATCCTT         3UTR.GTATGGG         3UTR.GAACGTC         3UTR.CTGACCG 
+        4.065650e-03        -4.063742e-03         4.054987e-03        -4.035482e-03         4.034246e-03        -4.027282e-03         4.000110e-03        -3.998438e-03         3.989891e-03        -3.952165e-03        -3.932326e-03 
+        3UTR.GGGATGG         3UTR.GGGATCT         3UTR.GACTGGT         3UTR.TGGGTTG         3UTR.GGCGAGT         3UTR.ATGACAT         3UTR.AATTACG            3UTR.CCCT         3UTR.CAAAACG          3UTR.TTCCTT         3UTR.TCACTCC 
+       -3.917338e-03        -3.905611e-03        -3.902313e-03        -3.883786e-03         3.843188e-03        -3.839000e-03        -3.826451e-03         3.824356e-03        -3.823044e-03         3.793150e-03         3.789097e-03 
+        3UTR.GTAGTGG          3UTR.GCCAAT         3UTR.TAGATTT           3UTR.AGATT         3UTR.CCCTGCC           3UTR.ACTAA          3UTR.TAATCA         3UTR.AGGGTTG         3UTR.CCGGGCC         3UTR.TAAGTTA         3UTR.GAAGCAT 
+        3.784319e-03         3.768796e-03         3.749804e-03         3.741403e-03         3.738514e-03         3.713002e-03         3.708794e-03        -3.688389e-03         3.676866e-03        -3.669559e-03        -3.668612e-03 
+        3UTR.ACGGCAG         3UTR.CAATCTA         3UTR.CTGTCCG   MIR.hsa-miR-26a-5p         3UTR.ATCGTTG          3UTR.GTGTTG         3UTR.AAGCGCA         3UTR.TATGCGA    MIR.hsa-let-7e-5p         3UTR.TTCCCCT          3UTR.ACACGA 
+        3.665121e-03         3.662956e-03         3.662402e-03        -3.636995e-03        -3.635498e-03         3.617395e-03        -3.601529e-03        -3.596379e-03        -3.594576e-03         3.588728e-03         3.572412e-03 
+        3UTR.GTTCTTC          3UTR.GGTGTA         3UTR.ATCCTCG           3UTR.GCCCC         3UTR.CGTGTTG         3UTR.ATATTAG          3UTR.CAAGTA          3UTR.GAACTG         3UTR.TTTTTAA         3UTR.CTATCTA         3UTR.TCCCACA 
+       -3.549528e-03        -3.534652e-03         3.528327e-03         3.509663e-03         3.509547e-03         3.494444e-03        -3.474681e-03        -3.458128e-03        -3.437784e-03         3.411324e-03         3.401064e-03 
+           Codon.ACG              3UTR.TC          3UTR.GACCGT         3UTR.GTGGGCT         3UTR.AGCGAAA         3UTR.CGTTGGA         3UTR.ATACACC         3UTR.CATGAGT          3UTR.GAGTGT  MIR.hsa-miR-365a-3p  MIR.hsa-miR-125b-5p 
+       -3.386697e-03         3.385179e-03         3.362410e-03        -3.356760e-03        -3.354001e-03        -3.342823e-03        -3.341835e-03        -3.336190e-03        -3.334927e-03        -3.321047e-03        -3.310688e-03 
+        3UTR.GAGAACT         3UTR.CAATCTC   MIR.hsa-miR-30a-5p         3UTR.CGCTAAA         3UTR.TCTGGAA    MIR.hsa-miR-496.2         3UTR.TGCGCGT            3UTR.AGGA          3UTR.CTTTGG          3UTR.AGCTTC         3UTR.GTTCCGC 
+       -3.307718e-03         3.301518e-03        -3.290904e-03        -3.275734e-03        -3.259538e-03         3.259137e-03         3.259111e-03        -3.251404e-03        -3.249462e-03         3.235937e-03         3.233591e-03 
+         3UTR.AAGAGA         3UTR.TCTTAAG         3UTR.TTTATGT         3UTR.CCGGCCT          3UTR.CAGGAA         3UTR.GAGTACT            3UTR.ACAG         3UTR.TGCAGTC         3UTR.TACCAGC         3UTR.TAACCTA         3UTR.ACGTGCG 
+       -3.224151e-03         3.204977e-03        -3.202723e-03         3.179352e-03        -3.176133e-03        -3.166345e-03        -3.122195e-03         3.121843e-03         3.112180e-03        -3.105040e-03         3.071538e-03 
+         3UTR.ATTAAA         3UTR.TAAGTCG         3UTR.GGTAGGT         3UTR.CCAACCT           3UTR.GTAGT         3UTR.TTTTATA          3UTR.TTTTAA         3UTR.GTTCTAC         3UTR.CGGCAAA         3UTR.ATCTGCG         3UTR.GTAGCCG 
+        3.039471e-03         3.030879e-03        -3.027771e-03         3.017093e-03         3.001062e-03        -2.997278e-03        -2.995485e-03        -2.988855e-03        -2.988315e-03        -2.983845e-03         2.982960e-03 
+        3UTR.TCAAACG         3UTR.TCAGTAC         3UTR.GTTACCT         3UTR.TTGGGCA         3UTR.CCCGGGC         3UTR.CGGATCT         3UTR.CCTCTGA         3UTR.ACTCGGA         3UTR.GTTGGGC         3UTR.CGCTACT         3UTR.ACCCTAT 
+       -2.976376e-03        -2.972365e-03         2.969412e-03        -2.963349e-03         2.948663e-03        -2.945605e-03         2.926127e-03         2.920653e-03        -2.916668e-03         2.913620e-03         2.911527e-03 
+        3UTR.CAGAACG         3UTR.AATTTAT         3UTR.AGATTAA         3UTR.GTATATA         3UTR.CCCTTTC         3UTR.TTACTGA         3UTR.TAACGGA          3UTR.CAGCGG         3UTR.TCATTCT          3UTR.CTGGAA         3UTR.GACATTA 
+       -2.878159e-03        -2.866702e-03         2.847361e-03        -2.810311e-03         2.792780e-03         2.785845e-03         2.783071e-03        -2.780632e-03         2.768454e-03        -2.759556e-03         2.747501e-03 
+        3UTR.AGGCGCG         3UTR.CGCTAAG         3UTR.AACCTAG         3UTR.GATTGCT         3UTR.TTCTGTT         3UTR.CAATTAA            Codon.TGC         3UTR.GTTGCTA         3UTR.ACCCCTT          3UTR.AAAACC            Codon.CTA 
+       -2.697808e-03         2.693325e-03        -2.688625e-03        -2.668986e-03         2.663440e-03         2.663210e-03        -2.659783e-03         2.642882e-03         2.640652e-03        -2.619445e-03        -2.596246e-03 
+ MIR.hsa-miR-130b-3p         3UTR.AACGTGA          3UTR.CCCCAA         3UTR.TACTAAC         3UTR.AGATTGA         3UTR.GGGTCCG         3UTR.GGCCCGC          3UTR.GAACAG             3UTR.CCT          3UTR.CTCCCA         3UTR.GTATATC 
+       -2.585834e-03        -2.577068e-03         2.561152e-03         2.548158e-03         2.541737e-03         2.531107e-03         2.522289e-03        -2.519068e-03         2.518898e-03         2.500994e-03         2.499554e-03 
+         3UTR.ATTTAG         3UTR.ATACGAC           3UTR.CGATA         3UTR.AGACGGG         3UTR.GCGATGT          3UTR.CGGAGC         3UTR.ATGACAG MIR.hsa-miR-183-5p.2         3UTR.CTCGATT         3UTR.CGGAGCA         3UTR.TAGAAAT 
+        2.498238e-03        -2.497959e-03         2.475000e-03        -2.460323e-03        -2.457838e-03        -2.444584e-03         2.438859e-03        -2.425095e-03        -2.417873e-03        -2.414415e-03         2.412049e-03 
+        3UTR.TTGAGGC      MIR.hsa-miR-23c  MIR.hsa-miR-301a-3p         3UTR.AGGCTAC         3UTR.GACGCCC         3UTR.CGGTCGC         3UTR.AACCAGG         3UTR.ACAATGA         3UTR.TGTTGCC         3UTR.AGAAAAA         3UTR.AACTATG 
+        2.396402e-03        -2.376717e-03        -2.360624e-03         2.358060e-03         2.337528e-03        -2.331653e-03        -2.330594e-03         2.325362e-03         2.298675e-03        -2.291246e-03        -2.281526e-03 
+         3UTR.ATTGTA         3UTR.AACCGTA         3UTR.ATGACGA         3UTR.GCGGAGA         3UTR.TAGATAA         3UTR.TCCGTCG         3UTR.TAGCTAG          3UTR.ACTGTA         3UTR.GATATGT          3UTR.CCGGGG         3UTR.CGAACCG 
+       -2.278759e-03         2.274292e-03        -2.252701e-03        -2.249555e-03         2.249464e-03        -2.247655e-03         2.244136e-03        -2.240610e-03        -2.230166e-03         2.225385e-03        -2.218991e-03 
+ MIR.hsa-miR-125a-5p   MIR.hsa-miR-18a-5p         3UTR.ACAAATA         3UTR.CCCTTAA         3UTR.GCTATGC           3UTR.TATTT          3UTR.CGTTTA          3UTR.TACCTG         3UTR.ACTCCCA         3UTR.AGACGTG           3UTR.GACAT 
+       -2.212252e-03        -2.208600e-03         2.203236e-03        -2.200831e-03        -2.196600e-03        -2.182392e-03        -2.178024e-03         2.175692e-03         2.174741e-03        -2.171310e-03        -2.168108e-03 
+        3UTR.GCAAATG         3UTR.GCAGCAG          3UTR.ATGACT          3UTR.AAGACG      MIR.hsa-miR-429         3UTR.GCTACAT         3UTR.GCCAAAC         3UTR.GCCGTGG         3UTR.TGGACGA         3UTR.TTTGAGC         3UTR.ATTCCTT 
+        2.164754e-03         2.163197e-03         2.152219e-03        -2.134968e-03        -2.127912e-03         2.123974e-03         2.091106e-03         2.083781e-03         2.083326e-03         2.082733e-03         2.081858e-03 
+         3UTR.TTATTA         3UTR.ATTGAGC         3UTR.TCGACGT         3UTR.GATAGGC         3UTR.GCGAGGA         3UTR.CCCCTTG         3UTR.TCACAAA         3UTR.TTGGACA            3UTR.GACT         3UTR.TGGGAGA         3UTR.TCCGGGG 
+       -2.068918e-03        -2.067364e-03        -2.050057e-03        -2.045052e-03        -2.003673e-03         1.997853e-03         1.995784e-03        -1.972369e-03        -1.972284e-03        -1.968711e-03         1.945905e-03 
+          3UTR.ATAGT         3UTR.ACTCGGC         3UTR.CGAACGC         3UTR.TACGCAT         3UTR.ACTGGTG         3UTR.GGGTGGG         3UTR.CTAGAGT         3UTR.CATAGAC          3UTR.ACTACG         3UTR.CGAGAAC         3UTR.TGGATTG 
+        1.944325e-03        -1.940581e-03        -1.931625e-03        -1.929899e-03        -1.916025e-03         1.913066e-03        -1.912556e-03        -1.908871e-03        -1.904788e-03        -1.904313e-03        -1.874922e-03 
+        3UTR.ACCAGTA         3UTR.CTGATCC         3UTR.GTGCTAG         3UTR.CCAACGA            3UTR.TTAG         3UTR.TTGTTTG          3UTR.GGGGAC         3UTR.TCAAGCC         3UTR.GGGCTGG         3UTR.TACCTAT         3UTR.CTACCCG 
+       -1.871906e-03        -1.869416e-03         1.863939e-03        -1.853318e-03         1.851580e-03        -1.839288e-03         1.837337e-03         1.820851e-03         1.811214e-03         1.805570e-03         1.805222e-03 
+        3UTR.CCGCATT          3UTR.CGAGGA         3UTR.TTCTCCG         3UTR.ATCATGC         3UTR.GGGGCTA         3UTR.TGGTCCG         3UTR.GCCAATA         3UTR.CTCAAGG          3UTR.TAGACG         3UTR.CCCCGGG         3UTR.CGAAGCA 
+        1.797090e-03        -1.793924e-03         1.791903e-03         1.781273e-03        -1.771224e-03        -1.770347e-03         1.757158e-03        -1.753456e-03        -1.752949e-03         1.743010e-03        -1.741652e-03 
+        3UTR.CAAATTA         3UTR.GCCGCTG         3UTR.GGGTCGG          3UTR.GCAGTA         3UTR.AGAATAG         3UTR.TTGAAGC         3UTR.GGACTCT          3UTR.CTCTTT         3UTR.TTATTTA          3UTR.TTACCT         3UTR.CAGGATA 
+        1.722791e-03         1.719440e-03        -1.713588e-03         1.709279e-03         1.706237e-03        -1.693608e-03        -1.690308e-03        -1.679873e-03        -1.672522e-03         1.670158e-03        -1.658675e-03 
+        3UTR.GGCCCTG         3UTR.CCGAAAC         3UTR.GCAAAGG         3UTR.GGGCCAT         3UTR.TTGCAGC         3UTR.GATAATG         3UTR.TAGATCT         3UTR.GATCCAT         3UTR.TGGTCGT         3UTR.GCCGTCC         3UTR.CTTCGCG 
+        1.642582e-03         1.642557e-03         1.641705e-03        -1.640057e-03         1.625988e-03         1.621698e-03        -1.617442e-03        -1.611894e-03         1.605543e-03         1.602041e-03         1.593831e-03 
+MIR.hsa-miR-101-3p.1         3UTR.CAATGCA         3UTR.GTGGTCT         3UTR.ACGTAGA         3UTR.TAGACTA         3UTR.CTAAAGG         3UTR.TTGAATC         3UTR.ATTGTAT              UTR5LEN         3UTR.AAAAGAC         3UTR.ATTGCGC 
+       -1.591156e-03         1.584123e-03         1.578848e-03         1.568100e-03         1.564427e-03        -1.561894e-03        -1.542985e-03        -1.541867e-03        -1.541642e-03        -1.537257e-03        -1.529345e-03 
+        3UTR.GGACTCA         3UTR.ATTCCAA         3UTR.ATCCTAC         3UTR.GCACACT         3UTR.CCACACC         3UTR.GGGGTTC         3UTR.GTTCACT         3UTR.CCCCGTG         3UTR.CTTACGG         3UTR.CTATACC         3UTR.TTGTTAA 
+       -1.522852e-03        -1.516585e-03         1.516405e-03        -1.513554e-03         1.505568e-03         1.496994e-03        -1.488086e-03         1.483380e-03        -1.482861e-03         1.481902e-03         1.456914e-03 
+        3UTR.TGCATGT         3UTR.AATGACG          3UTR.GCGACA          3UTR.TTGGGC          3UTR.CGCTTC         3UTR.TCTCTGC          3UTR.AGGCTA         3UTR.TACCCCT         3UTR.CTCAGCC           3UTR.GGACT         3UTR.GTGAGTG 
+        1.453057e-03        -1.452014e-03         1.444134e-03        -1.439609e-03         1.432743e-03         1.428163e-03         1.423795e-03         1.418509e-03         1.417511e-03        -1.417335e-03        -1.408754e-03 
+        3UTR.AGACGAA         3UTR.GACCCAT         3UTR.CACGAAC         3UTR.TCCTGCA            Codon.ACA          3UTR.AAAAAA         3UTR.ATCTGGC          3UTR.GCACTT         3UTR.TACTTCG         3UTR.AAGACTG         3UTR.TCGTCAC 
+       -1.407690e-03        -1.405072e-03        -1.390686e-03        -1.389012e-03        -1.378304e-03        -1.369158e-03        -1.365506e-03        -1.355679e-03        -1.349509e-03        -1.349278e-03         1.348907e-03 
+        3UTR.TGTCGTA         3UTR.GGCTAGC         3UTR.CAGCGGA         3UTR.CCATGCA         3UTR.CCACTAA         3UTR.TCTCAAT         3UTR.CATTTAT         3UTR.CTGTCAT         3UTR.GCGTATG         3UTR.CTTGTTG         3UTR.GAACTAG 
+        1.337152e-03         1.322722e-03        -1.322058e-03         1.306924e-03         1.305042e-03         1.303456e-03         1.298654e-03         1.292025e-03        -1.284293e-03         1.280538e-03        -1.273571e-03 
+         3UTR.GTCATG          3UTR.GGCGAC         3UTR.AAGAGAC         3UTR.AAAGCCG         3UTR.AGAAAGG         3UTR.GAACAGC         3UTR.TGGGATT         3UTR.GTGTCAC          3UTR.CGCGGG            Codon.GAG           3UTR.GCTCA 
+        1.258411e-03         1.256083e-03        -1.255634e-03         1.250048e-03        -1.248342e-03        -1.232271e-03        -1.226694e-03        -1.222331e-03         1.222057e-03         1.221324e-03         1.218148e-03 
+        3UTR.CCAGAAC          3UTR.GAAATA          3UTR.CGAAGC         3UTR.CGAGATT         3UTR.CGCCAAC         3UTR.AAAGAGC  MIR.hsa-miR-520d-3p         3UTR.GAGGTGT          3UTR.ATCTGT         3UTR.CGGAGAG         3UTR.AGCCGTC 
+        1.214695e-03         1.211607e-03        -1.210391e-03        -1.202092e-03        -1.195409e-03         1.184287e-03        -1.174641e-03        -1.170085e-03        -1.168915e-03        -1.159018e-03         1.158911e-03 
+        3UTR.CCCGAAA          3UTR.CAGCGC          3UTR.TTACTG         3UTR.ACTTGGC          3UTR.TACTAG         3UTR.ACTCTCG         3UTR.TTGGTAC         3UTR.GCCCCGT         3UTR.GTGACTC         3UTR.TTGAACG         3UTR.TTCAGTC 
+        1.155299e-03         1.132635e-03         1.102625e-03        -1.102013e-03        -1.098873e-03        -1.093393e-03         1.079684e-03         1.074548e-03        -1.059563e-03        -1.048422e-03         1.047612e-03 
+          3UTR.GCTAG         3UTR.TTTAGCT          3UTR.CATCCG         3UTR.TCCTTAA         3UTR.CTCGAAG          3UTR.TACAAG         3UTR.TTTGATC          3UTR.TTAGAT         3UTR.CCTTGCA         3UTR.GAGAAGG          3UTR.CGGTAC 
+        1.047386e-03         1.045423e-03         1.044612e-03         1.042360e-03        -1.037400e-03         1.031343e-03         1.030297e-03         1.014849e-03         1.014501e-03        -1.013044e-03        -1.003198e-03 
+        3UTR.AATAACT         3UTR.ATAGTCT         3UTR.TTTTTGT         3UTR.CTGCTTT         3UTR.CGCAGAA          3UTR.AAGCGC         3UTR.GCATCAC          3UTR.TTCGCA         3UTR.CGTAGAA          3UTR.AGTACA         3UTR.TGGGTGG 
+        9.973541e-04         9.972135e-04        -9.952787e-04         9.626980e-04        -9.570081e-04        -9.409472e-04        -9.376378e-04         9.351918e-04         9.346685e-04         9.289913e-04         9.278214e-04 
+  MIR.hsa-miR-339-5p         3UTR.CATTAAT         3UTR.AATATAT         3UTR.TCCCGTA         3UTR.GAGAGAT         3UTR.GCATCTG         3UTR.ATCAGCC         3UTR.TGTAGTC         3UTR.GTGTACA         3UTR.GTTAAAC          3UTR.TGTTTG 
+       -9.141870e-04        -9.134060e-04        -9.097916e-04         9.095892e-04         9.045445e-04        -9.023213e-04         8.964593e-04         8.818815e-04        -8.799154e-04        -8.722224e-04        -8.720610e-04 
+          3UTR.CCCCT         3UTR.TCTCTGA         3UTR.TCGTGCT         3UTR.CCTATAC         3UTR.CCGCTCG         3UTR.ACCTTAG         3UTR.TGACTAC         3UTR.AGCTGAT         3UTR.CGTTGAC         3UTR.AGAGAAG         3UTR.AACAGAA 
+        8.707243e-04         8.691865e-04        -8.681626e-04         8.671850e-04        -8.649614e-04         8.639659e-04        -8.628827e-04        -8.562837e-04         8.544961e-04        -8.508771e-04        -8.468709e-04 
+         3UTR.CCGAAA   MIR.hsa-miR-212-3p         3UTR.GCGAGAT         3UTR.TGACATG          3UTR.AGCACT         3UTR.CATTCCG         3UTR.GGTATTA         3UTR.GCGACTA         3UTR.TTCGAGC          3UTR.TCTAGC          3UTR.AAAAGA 
+        8.432756e-04        -8.431560e-04        -8.412810e-04        -8.387870e-04        -8.384464e-04         8.369243e-04         8.242024e-04        -8.135016e-04        -8.051901e-04         8.046187e-04        -7.910692e-04 
+        3UTR.CTGAATA  MIR.hsa-miR-181a-5p         3UTR.CAACCAT         3UTR.ACGTATC         3UTR.TTATGCC         3UTR.CCGTAGA         3UTR.ACGCGAA         3UTR.CGCCCTA         3UTR.ACGTAGC            3UTR.TAGT         3UTR.ACTTCCG 
+        7.886621e-04        -7.867928e-04        -7.746624e-04        -7.725850e-04         7.712877e-04         7.691727e-04        -7.688740e-04         7.675416e-04         7.585632e-04         7.560390e-04         7.523464e-04 
+        3UTR.GTAAGCC          3UTR.GCCGTC          3UTR.TTCTTT         3UTR.CGTAACA         3UTR.TAATTTA         3UTR.CCTTACC    MIR.hsa-miR-22-3p         3UTR.CCCCCGA         3UTR.ATATCGT         3UTR.AAACAAG         3UTR.GAGCTAC 
+        7.506349e-04         7.491207e-04         7.475637e-04        -7.421184e-04        -7.359406e-04         7.313550e-04        -7.306038e-04         7.283075e-04         7.201208e-04         7.168724e-04         7.155670e-04 
+        3UTR.GTGTCCT   MIR.hsa-miR-191-5p         3UTR.TGGTGAA         3UTR.CGTTCTG         3UTR.GCTGAGC          3UTR.CGTGTT         3UTR.GTTGACG         3UTR.CATGCAT         3UTR.CGTTGTA          3UTR.CCACAT         3UTR.AGGAGTT 
+       -7.153639e-04        -7.151515e-04        -7.105458e-04        -7.077285e-04        -7.060690e-04         6.895748e-04        -6.756573e-04         6.752278e-04        -6.732388e-04        -6.680283e-04        -6.620789e-04 
+        3UTR.GCCTGCT           3UTR.ATCGG         3UTR.AAGGATT         3UTR.ACTGTCA           3UTR.TTCGG         3UTR.CATGGAC         3UTR.GCCGGCG         3UTR.CTCCGGA         3UTR.ACTTGTC         3UTR.GACACAG         3UTR.GTGAGCT 
+        6.612610e-04        -6.567864e-04        -6.400773e-04        -6.305470e-04        -6.278304e-04        -6.269898e-04         6.149098e-04        -6.145519e-04        -6.110051e-04        -6.056091e-04         6.029892e-04 
+        3UTR.AGCTCCA         3UTR.GAAGCGA          3UTR.GAGGCG         3UTR.GCTAGAT            3UTR.TGGT         3UTR.ATATAGT         3UTR.CGATTCC         3UTR.TATGATC         3UTR.TATTATA         3UTR.GAGCGTA         3UTR.TACATTA 
+       -6.009365e-04        -5.962822e-04        -5.936972e-04         5.871218e-04        -5.859383e-04         5.854114e-04        -5.805612e-04         5.735667e-04        -5.637609e-04        -5.434639e-04        -5.388108e-04 
+         3UTR.CCTTAC         3UTR.GCGGGGG         3UTR.AGTGACT         3UTR.ACGAGTT           3UTR.TAGCC           3UTR.CTCCC         3UTR.GAACTCT          3UTR.TACCTC         3UTR.TGAGACC          3UTR.TTTTTA         3UTR.ATTAAAC 
+        5.385051e-04         5.361350e-04        -5.298391e-04         5.297857e-04         5.295833e-04         5.238884e-04        -5.190546e-04        -5.176335e-04         5.017155e-04        -4.965305e-04         4.960409e-04 
+        3UTR.GGGCCCC         3UTR.TGACTGT   MIR.hsa-miR-10a-5p         3UTR.CTCCCGA         3UTR.TACGCTC         3UTR.GTCGTAA          3UTR.TTCGTT         3UTR.GAGGCGA          3UTR.AATTAA         3UTR.GGAGGGG         3UTR.CGACTAC 
+        4.960152e-04        -4.959620e-04        -4.910340e-04        -4.903711e-04         4.827934e-04         4.810723e-04        -4.700365e-04        -4.686621e-04         4.659683e-04         4.633366e-04         4.600240e-04 
+         3UTR.TGGACT          3UTR.ACGTAG         3UTR.TTATAGT         3UTR.CAAAAAC         3UTR.CTGCTCT         3UTR.CTAGGGC          3UTR.TTGTCC         3UTR.CCCCAAT          3UTR.TCGAGC         3UTR.CTGGGGA         3UTR.TTCTCGA 
+       -4.499043e-04         4.489207e-04         4.467179e-04        -4.419542e-04        -4.388439e-04         4.156582e-04         4.114500e-04         4.112292e-04        -4.096504e-04         4.070719e-04        -3.946989e-04 
+        3UTR.ATTCTTA         3UTR.GTGCCGG         3UTR.GTGATTT         3UTR.GCCTAGA         3UTR.AATCGAC         3UTR.GGAGAGC         3UTR.TACTCAA  MIR.hsa-miR-135a-5p          3UTR.GATAAT         3UTR.ATTGATT         3UTR.GAGACTC 
+        3.928639e-04         3.923663e-04         3.829494e-04        -3.768455e-04         3.710974e-04        -3.689776e-04         3.658904e-04        -3.552905e-04         3.495616e-04         3.462131e-04        -3.392756e-04 
+        3UTR.ACTCTTT         3UTR.ATGCTCT         3UTR.CCATAGG         3UTR.CGACCCA         3UTR.CTTCGGG         3UTR.TCTAATC          3UTR.GAAGAC         3UTR.TTGATTG         3UTR.CTTCAGT         3UTR.ACTTCCA         3UTR.TGAAGAC 
+       -3.365218e-04         3.305527e-04         3.281278e-04        -3.238557e-04        -3.122053e-04        -3.095508e-04        -3.021539e-04         3.001280e-04        -2.973911e-04        -2.967779e-04        -2.958259e-04 
+          3UTR.TTGTA         3UTR.CGGCAAT         3UTR.CGGTAAC         3UTR.AGACGAT         3UTR.AGGTCGG         3UTR.ATCGAGC         3UTR.TCCGTTA         3UTR.AGGGCCG          3UTR.GAGGTA         3UTR.TTCGCGC         3UTR.GCTTAGA 
+       -2.954018e-04        -2.934862e-04         2.913462e-04        -2.885225e-04         2.860755e-04        -2.842084e-04        -2.825890e-04         2.819118e-04         2.789055e-04         2.761500e-04         2.716215e-04 
+        3UTR.ATGGTAC         3UTR.GTACGAA         3UTR.CCAGGTA  MIR.hsa-miR-200c-3p          3UTR.GTTGCC         3UTR.TAACCTT         3UTR.CCTGCGC            3UTR.CCTA         3UTR.TCAGCCG         3UTR.GAAGACC          3UTR.GCATCT 
+       -2.713076e-04        -2.696580e-04        -2.637319e-04         2.601442e-04         2.600385e-04         2.571788e-04         2.526259e-04         2.517355e-04         2.517335e-04        -2.489779e-04        -2.481628e-04 
+        3UTR.CCGCGCC          3UTR.TACTTT         3UTR.GTTCTGA         3UTR.GGCAAAG          3UTR.GCCAAC         3UTR.AGCAGGC         3UTR.TACTCGA          3UTR.TCTCAA          3UTR.GAGAAG         3UTR.AGATGGT         3UTR.TAGCTGT 
+       -2.448297e-04         2.363823e-04        -2.355922e-04        -2.337537e-04        -2.297622e-04        -2.263920e-04        -2.244360e-04         2.185549e-04        -2.182248e-04        -2.078307e-04         2.024881e-04 
+        3UTR.TTTTGAT         3UTR.CAAATAA         3UTR.TGCTCAC         3UTR.GAGGGTT         3UTR.CTTGAGT         3UTR.CGCGATT   MIR.hsa-miR-497-5p         3UTR.TCGTGCC          3UTR.GCAACA         3UTR.GCGACGT          3UTR.AACGGG 
+        2.005252e-04         1.958528e-04         1.932177e-04        -1.915521e-04        -1.795704e-04        -1.721516e-04        -1.711219e-04         1.698014e-04         1.685586e-04        -1.681740e-04        -1.644783e-04 
+        3UTR.CCAAACA          3UTR.GTTATG         3UTR.GATGGAA           3UTR.GCGCT         3UTR.CCGGGCA          3UTR.CGTGGA         3UTR.CCGGAAC         3UTR.TGATCAG         3UTR.CGCCAAA         3UTR.GCGTCTT         3UTR.TGAACAG 
+        1.622825e-04         1.562752e-04        -1.548467e-04         1.544323e-04         1.509214e-04        -1.440935e-04        -1.411681e-04         1.324793e-04         1.322524e-04         1.300271e-04        -1.299555e-04 
+        3UTR.GACGAGC          3UTR.GCCCAA         3UTR.GTCGCTA         3UTR.ATCGACT         3UTR.CGCCCGA         3UTR.GATTGGC         3UTR.AACAACT         3UTR.GTGCGCC         3UTR.GATGGGG         3UTR.ATGGACA         3UTR.ACCTCAA 
+        1.189581e-04        -1.033937e-04         1.029054e-04         9.949402e-05         8.959922e-05         8.745178e-05         7.919752e-05        -7.771731e-05         6.767758e-05        -5.856674e-05        -5.485166e-05 
+         3UTR.CCGGGC         3UTR.AGGATCT          3UTR.AGATTT           3UTR.GAATC         3UTR.TTTTCAT         3UTR.TACGTAG         3UTR.GCCCAAC         3UTR.ATCGAAG          (Intercept) 
+        4.843453e-05        -4.098651e-05         3.860745e-05        -3.775237e-05         2.313166e-05         1.636529e-05        -1.680910e-06         6.388338e-07         7.863519e-16 
+[1] 867
+[1] "0.663732624335101"
+[1] "0.668903364019071"
+[1] "0.692041940714781"
+[1] "0.629418378711548"
+[1] "0.672389897182257"
+[1] "0.686821828790891"
+[1] "0.651546508541196"
+[1] "0.666102044777611"
+[1] "0.669033122916471"
+[1] "0.665571474827103"
+          [,1]
+[1,] 0.6733815
+          [,1]
+[1,] 0.6657561
+null device 
+          1 
