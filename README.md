@@ -4,8 +4,6 @@ This repository is intended to accompany our publication, primarily to enhance t
 
 Agarwal V, Kelley D. [The genetic and biochemical determinants of mRNA degradation rates in mammals](). 2022. **_bioRxiv_**.
 
-test2
-
 Each folder is organized as follows:
 
 * Collection and visualization of relationships between human and mouse half-life datasets (as shown in **Fig 1**)
