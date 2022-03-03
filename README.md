@@ -2,7 +2,7 @@
 
 This repository is intended to accompany our publication, primarily to enhance the reproducibility of our results. For more information please refer to:
 
-Agarwal V, Kelley D. [The genetic and biochemical determinants of mRNA degradation rates in mammals](). 2022. **_bioRxiv_**.
+Agarwal V, Kelley D. The genetic and biochemical determinants of mRNA degradation rates in mammals. 2022. **_bioRxiv_**.
 
 Each folder is organized as follows:
 
@@ -38,8 +38,8 @@ In each Figure's folder, change directories to it and please read the file "runm
 
 To train the Saluki model, please visit this [link](https://github.com/calico/basenji/tree/master/manuscripts/saluki) within the basenji repo.
 
-**OPTIONAL**: For full functionality and to fix symbolic links, run the following command in the base saluki_paper directory to download the associated datapack:
+**OPTIONAL**: For full functionality and to fix symbolic links, download the associated datapack and save the "datasets" folder in the base Github directory:
 
-``
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6326409.svg)](https://doi.org/10.5281/zenodo.6326409)
 
 The figures will link to this folder accordingly. Some of the files need to be decompressed, and not all files are provided due to minimize the package size. If you need additional files not provided for the purpose of reproduction, please contact Vikram Agarwal (vagar {at} calicolabs {dot} com).
